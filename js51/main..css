@@ -1,0 +1,54 @@
+#app {
+	border: 1px solid #000000;
+	margin: 0px auto;
+	height: 200px;
+	width: 200px;
+	
+	position: relative;
+	
+}
+
+	 #element-1 {
+		border: 1px solid blue;
+		margin: 5px;
+	
+	}
+		#pod-element-1-1 {
+			color: black;	
+			
+			position: absolute;
+			bottom: 0px;
+			right: 0px;
+		}
+		
+		#pod-element-1-2 {
+			color: black;
+		}
+
+	#element-2  {
+		border: 1px solid blue;
+		margin: 5px;
+		
+		position: absolute;
+		
+		bottom: 0px;
+		left: 20px;
+		right: 100px;
+		top: 30px;
+	}
+	
+		#pod-element-2-1 {
+			color: black;
+		}
+		#pod-element-2-2 {
+			color: black;
+			
+			position: absolute;
+			right: 0px;
+		}
+	#element-1 > div,
+	#element-2 > div {
+		border: 1px solid black;
+		margin: 5px;
+		
+	}
