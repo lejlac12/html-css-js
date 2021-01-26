@@ -1,0 +1,10 @@
+.boja {
+	width: 500px;
+	height: 280px;
+	border: 2px solid black;
+	
+	background: linear-gradient(to top right, #44771140 200px, #FFFFFF40 200px, #FFFFFF40),
+				radial-gradient(circle at 150px 150px, blue 50px, transparent 50px, black 52px, transparent 52px),
+				radial-gradient(circle at 300px 150px, blue 50px, transparent 50px, black 52px, transparent 52px),
+				linear-gradient(#333, #eee);
+} 
