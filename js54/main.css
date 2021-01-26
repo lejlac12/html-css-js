@@ -1,0 +1,9 @@
+.boja {
+	width: 300px;
+	height: 300px;
+	border: 2px solid black;
+	
+	background: repeating-linear-gradient(90deg, #00000080, #00000080 10px, transparent 10px, transparent 25px),
+				repeating-radial-gradient(circle at 50% 50%, blue, blue 20px, transparent 20px, transparent 40px); 
+	 
+} 
