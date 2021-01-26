@@ -1,0 +1,10 @@
+.obojeno {
+	width: 500px;
+	height: 280px;
+	border: 2px solid black;
+	
+	background: linear-gradient(0.15turn,
+								blue 10%, white 10%, white 40%, blue 40%,
+								blue 50%, pink 50%, pink 80%, white 80%);
+
+}
