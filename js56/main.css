@@ -1,0 +1,79 @@
+.dugme {
+	display: inline-block;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 10pt;
+	border: 1px solid #AEB6BF;
+	background: transparent;
+	color: #AEB6BF ;
+	padding: 4px 10px;
+	margin: 2px;
+	cursor: pointer;
+	border-radius: 3px;
+	background-color: #283747;
+	
+}
+
+.dugme:hover {
+	background-color: #AEB6BF;
+	color: #283747;
+}
+
+.dugme.pink {
+	background-color: pink;
+	color: white;
+}
+
+.dugme.pink:hover {
+	background-color: #E9A39C;
+	border: #E9A39C;
+	background: linearni-gradient(#ED6E84 ,#FC92A4 );
+}
+
+.dugme.sivo {
+	background-color: gray;
+	color: white;
+}
+
+.dugme.sivo:hover {
+	background-color: #69605F;
+	border: #69605F;
+	color: white;
+}
+
+.dugme.plavo {
+	background-color: blue;
+	color: white;
+}
+
+.dugme.plavo:hover {
+	background-color: #4E5BB0 ;
+	border: #4E5BB0;
+	color: white;
+}
+
+.dugme.zeleno {
+	background-color: green;
+	color: white;
+}
+
+.dugme.zeleno:hover {
+	background-color: #76CC6D;
+	border: #76CC6D;
+	color: white;
+}
+
+.dugme.zuto {
+	background-color: #E3AD00;
+	color: white;
+}
+
+
+.dugme.zuto:hover {
+	background-color: #E5CE00;
+	border: #E5CE00;
+	color: white;
+}
+
+
+
