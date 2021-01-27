@@ -1,0 +1,130 @@
+.dugme {
+	display: inline-block;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 10pt;
+	border: 1px solid #AEB6BF;
+	background: transparent;
+	color: #AEB6BF ;
+	padding: 4px 10px;
+	margin: 2px;
+	cursor: pointer;
+	border-radius: 3px;
+	background-color: #283747;
+	
+}
+
+.dugme:hover {
+	background-color: #AEB6BF;
+	color: #283747;
+}
+
+.dugme.pink {
+	background-color: pink;
+	color: white;
+}
+
+.dugme.pink:hover {
+	background-color: #E9A39C;
+	border: #E9A39C;
+	background: linearni-gradient(#ED6E84 ,#FC92A4 );
+}
+
+.dugme.sivo {
+	background-color: gray;
+	color: white;
+}
+
+.dugme.sivo:hover {
+	background-color: #69605F;
+	border: #69605F;
+	color: white;
+}
+
+.dugme.plavo {
+	background-color: blue;
+	color: white;
+}
+
+.dugme.plavo:hover {
+	background-color: #4E5BB0 ;
+	border: #4E5BB0;
+	color: white;
+}
+
+.dugme.zeleno {
+	background-color: green;
+	color: white;
+}
+
+.dugme.zeleno:hover {
+	background-color: #76CC6D;
+	border: #76CC6D;
+	color: white;
+}
+
+.dugme.zuto {
+	background-color: #E3AD00;
+	color: white;
+}
+
+
+.dugme.zuto:hover {
+	background-color: #E5CE00;
+	border: #E5CE00;
+	color: white;
+}
+
+.grupa-inputa {
+	margin: 2px 0px 8px 0px;
+	display: flex;
+	flex-direction: column;
+	
+}
+
+	.grupa-inputa > label {
+	font-size: 10pt;
+	color: #5D6D7E;
+	font-family: sans-serif;
+	}
+	
+	.grupa-inputa > input[type="text"],
+	.grupa-inputa > input[type="number"],
+	.grupa-inputa > input[type="email"],
+	.grupa-inputa > input[type="tel"],
+	.grupa-inputa > textarea,
+	.grupa-inputa > select
+	{
+		border: none;
+		border-bottom: 1px solid  #5D6D7E;
+		padding: 2px 5px;
+
+	}
+	
+	.grupa-inputa > textarea {
+		border-left: 1px solid lightgray;
+		border-right: 1px solid lightgray;
+	}
+	
+	.checkbox-grupa {
+		display: flex;
+	}
+	
+		.checkbox-grupa > input[type="checkbox"] {
+			margin-right: 15px;
+		}
+		
+		.checkbox-grupa {
+			font-size: 11pt;
+			font-family:sans-serif;
+		}
+		
+		.grupa-inputa > input:invalid,
+		.grupa-inputa > textarea:invalid {
+			background-color: #D2B4DE;
+		}
+
+		.grupa-inputa > input:valid,
+		.grupa-inputa > textarea:valid {
+			border-bottom-color: green;
+		}
