@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Lejla</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+	<div>
+		<video width="600" muted id="video1">
+			<source  src="video.mp4" type="video/mp4">
+		</video>
+	</div>
+	
+	<div>
+		<button type="button" onclick="playVideo();">
+			Play 
+		</button>
+		<button type="button" onclick="pauseVideo();">
+			Pause
+		</button>
+		<button type="button" onclick="seekTo(0);">
+			Start
+		</button>
+		</button>
+		<button type="button" onclick="setSpeed(0.1);">
+			Very slow
+		</button>
+		<button type="button" onclick="setSpeed(1);">
+			Normal speed
+		</button>
+		<button type="button" onclick="setSpeed(16);">
+			Very fast 
+		</button>
+		
+		<span id="procenti">0%</span>
+	</div>
+	
+	<progress id="progress"></progress>
+	
+	<div id="dnevnik">
+		
+	</div>
+	
+		<script src="main.js"></script>
+	</body>
+</html>
