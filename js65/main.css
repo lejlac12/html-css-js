@@ -1,0 +1,39 @@
+ #app {
+	 display: flex;
+ }
+ 
+ #left,
+ #right {
+	 flex-grow: 1;
+	 flex-basis: 0; 
+ }
+ 
+ #right {
+	 margin-left: 20px;
+ }
+ 
+ #title {
+	 border-bottom: 2px solid black;
+	 margin: 10px 0px;
+	 padding-bottom: 5px;
+ }
+ 
+ #content {
+	 margin: 10px 0px;
+ }
+ 
+ .vijest {
+	 display: flex;
+	 margin: 5px 0px;
+	 border-bottom: 1px solid #555;
+ }
+ 
+ .vijest > img {
+	 width: 93px;
+	 height: auto;
+ }
+ 
+ .vijest > span {
+	 flex-grow: 1;
+	 padding-left: 10px;
+ }
