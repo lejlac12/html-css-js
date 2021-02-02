@@ -1,0 +1,114 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+.container {
+	width: 1440px;
+	margin: 0px auto;
+}
+
+#top-menu {
+	background-color: #f9f9f9;
+	border-bottom: 1px solid #ececec;
+	color: #b3b3b3;
+	height: 70px;
+	padding: 20px 0px;
+	font-size: 20px;
+}
+
+#top-menu a {
+	display: block;
+	padding: 5px 20px;
+	text-decoration: none;
+	color: #b3b3b3;
+}
+
+#top-menu .container {
+	display: flex;
+}
+
+.margin-left-auto {
+	margin-left: auto;
+}
+
+#banner-row .container {
+	display: flex;
+	height: 100px;
+	align-items: center;
+}
+
+#banner-row .korpa {
+	display: flex;
+	align-items: center;
+}
+
+#banner-row .korpa img {
+	margin-right: 20px;
+}
+#banner-row .korpa .broj-stavki {
+	text-align: right;
+	font-size: 15px;
+	color: #000000;
+}
+
+#banner-row .korpa .ukupna-cijena {
+	text-align: right;
+	font-size: 20px;
+	color: #87aade;
+	font-weight: bold;
+}
+
+#filter-red {
+	background-color: #87aade;
+	border-bottom: 1px solid #000000;
+}
+
+#filter-red .container {
+	display: flex;
+	height: 60px;
+	align-items: center;
+	
+}
+
+#filter-red a {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 22px;
+	padding: 10px 30px;
+	flex-grow: 1;
+	text-align: center;
+	border-right: 1px solid #ffffff;
+}
+
+#filter-red a:last-child {
+	border-right: none;
+}
+
+#info-red {
+	background-color: #ffd42a;
+}
+
+#info-red .container {
+	display: flex;
+	height: 140px;
+	align-items: center;
+	justify-content: space-between;
+}
+
+#info-red .container div {
+	font-size: 20px;
+}
+
+#main .container {
+	display: flex;
+}
+
+#sidebar {
+	width: 340px;
+}
+
+#sadrzaj {
+	flex-grow: 1;
+}
