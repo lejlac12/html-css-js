@@ -1,0 +1,18 @@
+body {
+	font-size: 24px;
+}
+
+.paragraf {
+	line-height: 1.5em;
+	text-indent: 2em;
+	text-align: justify;
+	page-break-inside: avoid;
+}
+
+section{
+	page-break-before: always;
+}
+
+section h2+.paragraf {
+	page-break-inside: auto;
+}
