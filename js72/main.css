@@ -6,28 +6,34 @@
 	width: 200px;
 	height: 40px;
 	text-align: center;
+	text-shadow: 1px 1px black;
+	background-color: gray;
+	font-weight: bold;
+	color: white;
 }
 
 .animirani:hover {
 	animation: animiraj-box 3s forwards;
+	
 }
 
 @keyframes animiraj-box {
 	0% {
 		transform:  rotate(0deg);
-		color: black;
+		color: green;
 	}
 	
 	45% {
 		transform: rotate(180deg);
-		color: red;
+		color: purple;
 	}
 	80% {
 		transform: rotate(355deg);
-		color: red;
+		color: purple;
 	}
 	100%{
 		transform: rotate(360deg);
-		color: black;
+		color: green;
 	}
 }
+

@@ -1,0 +1,100 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background: #000;
+}
+
+#sky {
+	position: relative;
+	width: 100vw;
+	height: 100vh;
+	background: linear-gradient(to bottom, #cee, #fde, #001);
+	background-size: 100vw 700vh;
+	
+	animation: sky-animation 10s ease-out forwards,
+				fade-out 3s linear 10s 1 normal forwards;
+	
+}
+
+#sun {
+	position: absolute;
+	background: #ffc;
+	width: 10vw;
+	height:  10vw;
+	top: 5vh;
+	left: 45vw;
+	border-radius: 10vw;
+	
+	animation: sun-animation 10s ease-out forwards;
+	
+}
+
+#ocean {
+	position: absolute;
+	background: #4cf;
+	width: 100vw;
+	top: 70vh;
+	height: 30vh;
+	
+	animation: ocean-animation 10s ease-out forwards;
+}
+
+#sand {
+	position: absolute;
+	background: #eed;
+	width: 100vw;
+	top: 90vh;
+	height: 10vh;
+	
+	animation: sand-animation 10s ease-out forwards;
+}
+
+@keyframes sky-animation {
+	0% {
+		background-position: 0vw 600vh;
+	}
+	50% {
+		background-position: 0vw 600vh;
+	}
+	100% {
+		background-position: 0vw 100vh;
+	}
+}
+
+@keyframes sun-animation {
+	0% {
+		top: 5vh;
+		background: #ffc;
+	}
+	100% {
+		top: 75vh;
+		background: #f61;
+	}
+}
+
+@keyframes ocean-animation {
+	0% {
+		background: #4cf;
+	}
+	100% {
+		background: #135;
+	}
+}
+
+@keyframes sand-animation {
+	0% {
+		background: #eed;
+	}
+	100% {
+		background: #336;
+	}
+}
+
+@keyframes fade-out {
+	0% {
+		
+	}
+	100% {
+		opacity: 0.0;
+	}
+}
