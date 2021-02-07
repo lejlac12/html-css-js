@@ -1,0 +1,35 @@
+.slike {
+	display: flex;
+	justify-content: space-between;
+}
+
+.slika {
+	width: 33%;
+	clip-path: polygon(
+		10% 25%,
+		50% 25%,
+		90% 25%,
+		75% 50%,
+		90% 75%,
+		50% 75%,
+		10% 75%,
+		25% 50%
+	);
+	transition: 0.5s;
+	filter: saturate(0.2);
+}
+
+.slika:hover {
+	clip-path: polygon(
+		10%  25%,
+		50%   0%,
+		90%  25%,
+		100% 50%,
+		90%  75%,
+		50% 100%,
+		10%  75%,
+		0%   50%
+	);
+	transition: 1s;
+	filter: saturate(1.0);
+}
