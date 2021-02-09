@@ -1,0 +1,1649 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]><html class="ie8" lang="pl" dir="ltr"><![endif]-->
+<!--[if IE 9 ]><html class="ie9" lang="pl" dir="ltr"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="pl" dir="ltr" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article# website: http://ogp.me/ns/website#"><!--<![endif]-->
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="language" content="pl" />
+  <!--
+  <PageMap>
+       <DataObject type="document">
+          <Attribute name="language">pl</Attribute>
+          <Attribute name="base_url">https://www.vandersandengroup.pl</Attribute>
+       </DataObject>
+    </PageMap>
+    -->
+  <meta charset="utf-8" />
+<link id="alternate-en-SE" rel="alternate" href="https://www.vandersandengroup.se/bricks/en/brick-brickslip/carbon" hreflang="en-SE" />
+<meta property="og:description" content="" />
+<meta property="og:title" content="Carbon" />
+<meta property="og:image" content="https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/assets/img/social/social-share-default.png" />
+<script src="https://www.google.com/recaptcha/api.js?hl=pl" async="async" defer="defer"></script>
+<link rel="shortlink" href="/bricks/pl/node/6361" />
+<link id="alternate-pl" rel="alternate" href="https://www.vandersandengroup.pl/bricks/pl/cegla-plytki/carbon" hreflang="pl" />
+<link id="alternate-ru-BY" rel="alternate" href="https://www.vandersandengroup.by/bricks/ru/kirpich-kirpichnaya-plitka/carbon" hreflang="ru-BY" />
+<link id="alternate-en-LT" rel="alternate" href="https://www.vandersandengroup.lt/bricks/en/brick-brickslip/carbon" hreflang="en-LT" />
+<link id="alternate-en-CZ" rel="alternate" href="https://www.vandersandengroup.cz/bricks/en/brick-brickslip/carbon" hreflang="en-CZ" />
+<link id="alternate-en-IE" rel="alternate" href="https://www.vandersandengroup.ie/bricks/en/brick-brickslip/carbon" hreflang="en-IE" />
+<link id="alternate-fr-CH" rel="alternate" href="https://www.vandersandengroup.ch/bricks/fr/brique-de-parement-plaquette/carbon" hreflang="fr-CH" />
+<link id="alternate-de-CH" rel="alternate" href="https://www.vandersandengroup.ch/bricks/de/verblender-riemchen/carbon" hreflang="de-CH" />
+<link id="alternate-en-RO" rel="alternate" href="https://www.vandersandengroup.ro/bricks/en/brick-brickslip/carbon" hreflang="en-RO" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link id="alternate-en-DK" rel="alternate" href="https://www.vandersandengroup.dk/bricks/en/brick-brickslip/carbon" hreflang="en-DK" />
+<link id="alternate-ru" rel="alternate" href="https://www.vandersandengroup.ru/bricks/ru/kirpich-kirpichnaya-plitka/carbon" hreflang="ru" />
+<link id="alternate-nl" rel="alternate" href="https://www.vandersandengroup.nl/bricks/nl-nl/gevelsteen-steenstrip/carbon" hreflang="nl" />
+<link id="alternate-fr" rel="alternate" href="https://www.vandersandengroup.fr/bricks/fr/brique-de-parement-plaquette/carbon" hreflang="fr" />
+<link id="alternate-de" rel="alternate" href="https://www.vandersandengroup.de/bricks/de/verblender-riemchen/carbon" hreflang="de" />
+<link id="alternate-de-BE" rel="alternate" href="https://www.vandersandengroup.be/bricks/de/verblender-riemchen/carbon" hreflang="de-BE" />
+<link id="alternate-fr-BE" rel="alternate" href="https://www.vandersandengroup.be/bricks/fr/brique-de-parement-plaquette/carbon" hreflang="fr-BE" />
+<link id="alternate-nl-BE" rel="alternate" href="https://www.vandersandengroup.be/bricks/nl-be/gevelsteen-steenstrip/carbon" hreflang="nl-BE" />
+<link id="alternate-x-default" rel="alternate" href="https://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon" hreflang="x-default" />
+<link id="alternate-en" rel="alternate" href="https://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon" hreflang="en" />
+<link id="alternate-en-GB" rel="alternate" href="https://www.vandersandengroup.co.uk/bricks/en-gb/carbon" hreflang="en-GB" />
+<link id="alternate-tr" rel="alternate" href="https://www.vandersandengroup.com.tr/bricks/tr/tugla-kilicina-kaplama-tuglalari/carbon" hreflang="tr" />
+<link rel="canonical" href="https://www.vandersandengroup.pl/bricks/pl/cegla-plytki/carbon" />
+<link rel="shortcut icon" href="https://www.vandersandengroup.pl/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<!--
+
+Author: Wieni
+Author URI: https://www.wieni.be
+Description: A custom website for Vandersanden Group
+
+  WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+ WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWW   WWWWWWWWWWWWWW   WWWWWWWWW
+WWWWWWWWWW   WWWWWWWWWWWWWW   WWWWWWWWW
+WWWWWWWWWW   WWWWW    WWWWW  WWWWWWWWWW
+WWWWWWWWWWW   WWW     WWWW   WWWWWWWWWW
+WWWWWWWWWWW   WWW      WWW  WWWWWWWWWWW
+WWWWWWWWWWWW  WWW  WW  WW   WWWWWWWWWWW
+WWWWWWWWWWWW   W   WW   W  WWWWWWWWWWWW
+WWWWWWWWWWWWW  W  WWW      WWWWWWWWWWWW
+WWWWWWWWWWWWW     WWWW    WWWWWWWWWWWWW
+WWWWWWWWWWWWWW   WWWWW    WWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+ WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+  WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+
+          Wieni webt, ni wint
+
+-->
+  <title>Carbon | Vandersanden Bricks</title>
+  <style type="text/css" media="all">
+@import url("https://www.vandersandengroup.pl/modules/system/system.base.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/modules/system/system.menus.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/modules/system/system.messages.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/modules/system/system.theme.css?qbm3bw");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.vandersandengroup.pl/sites/all/modules/contrib/date/date_api/date.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/modules/field/theme/field.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/modules/node/node.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/modules/search/search.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/modules/user/user.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/modules/contrib/youtube/css/youtube.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/modules/contrib/views/css/views.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/modules/contrib/ckeditor/css/ckeditor.css?qbm3bw");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.vandersandengroup.pl/sites/all/modules/contrib/colorbox/styles/plain/colorbox_style.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/modules/contrib/ctools/css/ctools.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/libraries/fancybox/jquery.fancybox-1.3.1.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/modules/contrib/eu_cookie_compliance/css/eu_cookie_compliance.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/default/files/honeypot/honeypot.css?qbm3bw");
+</style>
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#sliding-popup.sliding-popup-bottom{background:#305060;}#sliding-popup .popup-content #popup-text h1,#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text h3,#sliding-popup .popup-content #popup-text p{color:#fff !important;}
+
+/*]]>*/-->
+</style>
+<style type="text/css" media="all">
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/_utils/utils.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/base/base-ausy.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/cleanup/clean-form.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/cleanup/clean-layout.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/cleanup/font/clean-font.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/admin-tabs/admin-tabs.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/back-to-top/back-to-top.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/before-after/before-after.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/banner-video/banner-video.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/block-search/block-search.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/boxed-media/boxed-media.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/branding-logo/branding-logo.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/breadcrumb/breadcrumb.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/brick-grid/brick-grid.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/button-stack/button-stack.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/cta-banner/cta-banner.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/cta-button/cta-button.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/cta-icon/cta-icon.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/cta-link/cta-link.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/dropdown/dropdown.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/eboard-homepage/eboard-homepage.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/eu_cookie_compliance-custom/eu_cookie_compliance-custom.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/filter-item/filter-item.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/filter-multiselect/filter-multiselect.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/fine-hr/fine-hr.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/format-list/format-list.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/icon-description/icon-description.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/information-box/information-box.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/landing-page-hero/landing-page-hero.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/linge-brochure-stalen-contact-selligent-block/linge_brochure_stalen_contact_selligent_block.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/list-inspirations/list-inspirations.css?qbm3bw");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/main-menu/main-menu.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/masonry-arrow-teaser/masonry-arrow-teaser.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/mobile-menu/mobile-menu.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/openable-box/openable-box.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/popover-box/popover-box.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/search-result/search-result.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/short-preview/short-preview.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/simple-banner/simple-banner.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/simple-blockquote/simple-blockquote.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/simple-file-download/simple-file-download.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/simple-image-grid-item/simple-image-grid-item.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/simple-image-header/simple-image-header.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/simple-text-image-aside/simple-text-image-aside.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/site-logo/site-logo.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/subsite-links/subsite-links.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/title-group/title-group.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/top-menu-item/top-menu-item.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/vds-productselector-filter/vds-productselector-filter.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component-eboard/c-slider/c-slider.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component-eboard/landing-page-bullet-image/landing-page-bullet-image.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component-eboard/landing-page-button/landing-page-button.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component-eboard/landing-page-cta/landing-page-cta.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component-eboard/landing-page-cta-alt/landing-page-cta-alt.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component-eboard/landing-page-fulltext/landing-page-fulltext.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component-eboard/landing-page-heading/landing-page-heading.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component-eboard/landing-page-highlight/landing-page-highlight.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component-eboard/landing-page-ref/landing-page-ref.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component-eboard/landing-page-tech/landing-page-tech.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component-eboard/landing-page-youtube/landing-page-youtube.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/layout/l-banner/l-banner.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/layout/l-bordered-banner/l-bordered-banner.css?qbm3bw");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/layout/l-captioned-preview/l-captioned-preview.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/layout/l-domain-dropdown/l-domain-dropdown.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/layout/l-footer/l-footer.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/layout/l-form-row/l-form-row.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/layout/l-header/l-header.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/layout/l-multi-preview/l-multi-preview.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/layout/l-subheader/l-subheader.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/layout/layout.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/misc/misc.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/simple-slideshow/simple-slideshow.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline_main/assets/third-party/formidabel/css/formidabel.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline_main/legacy/wienibase/css/base.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline_main/legacy/wienisubtheme/css/styles.css?qbm3bw");
+@import url("https://www.vandersandengroup.pl/sites/all/themes/custom/baseline_main/legacy/wienisubtheme/hotfix.css?qbm3bw");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.vandersandengroup.pl/sites/all/modules/custom/wmcustom/css/dop.css?qbm3bw");
+</style>
+
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="https://www.vandersandengroup.pl/sites/all/themes/custom/baseline_main/legacy/wienisubtheme/css/styles-ieLT9.css?qbm3bw" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.2"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/misc/drupal.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.effect.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/modules/contrib/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.effect-shake.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/default/files/languages/pl_Vpl5Q7o35qVqMiGsJaaTLmjr9HpPp9TXiLqmrsMewy4.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/libraries/colorbox/jquery.colorbox-min.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/modules/contrib/colorbox/js/colorbox.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/modules/contrib/colorbox/styles/plain/colorbox_style.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/modules/contrib/colorbox/js/colorbox_load.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/libraries/fancybox/jquery.fancybox-1.3.1.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/modules/contrib/fancybox/js/fancybox.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/modules/custom/vds/js/vds-domains-dropdown.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/modules/features/content_type_brick/js/node-brick-gallery.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/modules/contrib/captcha/captcha.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/modules/custom/wmcustom/js/dop.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/modules/custom/vdg_core/js/menu.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/assets/js/slick-1.7.2.min.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/assets/js/vds.video-carousel.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/assets/legacy-js/script-window-events.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/assets/legacy-js/script-all.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/before-after/assets/jquery.event.move.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/before-after/assets/jquery.twentytwenty.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/before-after/before-after.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/dropdown/assets/util.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/dropdown/assets/popper.min.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/dropdown/dropdown.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/filter-multiselect/assets/bootstrap-multiselect.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/filter-multiselect/filter-multiselect.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component//masonry-arrow-teaser/masonry-arrow-teaser.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/mobile-menu/mobile-menu.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/popover-box/popover-box.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/layout/l-banner/l-banner.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/layout/l-domain-dropdown/l-domain-dropdown.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/layout/l-multi-preview/l-multi-preview.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/layout/l-split-side-mobile/l-split-side-mobile.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/themes/custom/baseline/src/component/simple-slideshow/simple-slideshow.js?qbm3bw"></script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/themes/custom/baseline_main/assets/third-party/formidabel/js/formidabel.js?qbm3bw"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"bricks\/pl\/","ajaxPageState":{"theme":"baseline_main","theme_token":"Py3CItq96GR_BpvWIoAEpAwDluv2oAeFact7vTgm6yk","js":{"0":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.effect.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.effect-shake.min.js":1,"public:\/\/languages\/pl_Vpl5Q7o35qVqMiGsJaaTLmjr9HpPp9TXiLqmrsMewy4.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/plain\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/libraries\/fancybox\/jquery.fancybox-1.3.1.js":1,"sites\/all\/modules\/contrib\/fancybox\/js\/fancybox.js":1,"sites\/all\/modules\/custom\/vds\/js\/vds-domains-dropdown.js":1,"sites\/all\/modules\/features\/content_type_brick\/js\/node-brick-gallery.js":1,"sites\/all\/modules\/contrib\/captcha\/captcha.js":1,"sites\/all\/modules\/custom\/wmcustom\/js\/dop.js":1,"sites\/all\/modules\/custom\/vdg_core\/js\/menu.js":1,"sites\/all\/themes\/custom\/baseline\/assets\/js\/slick-1.7.2.min.js":1,"sites\/all\/themes\/custom\/baseline\/assets\/js\/vds.video-carousel.js":1,"sites\/all\/themes\/custom\/baseline\/assets\/legacy-js\/script-window-events.js":1,"sites\/all\/themes\/custom\/baseline\/assets\/legacy-js\/script-all.js":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/before-after\/assets\/jquery.event.move.js":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/before-after\/assets\/jquery.twentytwenty.js":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/before-after\/before-after.js":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/dropdown\/assets\/util.js":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/dropdown\/assets\/popper.min.js":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/dropdown\/dropdown.js":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/filter-multiselect\/assets\/bootstrap-multiselect.js":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/filter-multiselect\/filter-multiselect.js":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/\/masonry-arrow-teaser\/masonry-arrow-teaser.js":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/mobile-menu\/mobile-menu.js":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/popover-box\/popover-box.js":1,"sites\/all\/themes\/custom\/baseline\/src\/layout\/l-banner\/l-banner.js":1,"sites\/all\/themes\/custom\/baseline\/src\/layout\/l-domain-dropdown\/l-domain-dropdown.js":1,"sites\/all\/themes\/custom\/baseline\/src\/layout\/l-multi-preview\/l-multi-preview.js":1,"sites\/all\/themes\/custom\/baseline\/src\/layout\/l-split-side-mobile\/l-split-side-mobile.js":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/simple-slideshow\/simple-slideshow.js":1,"sites\/all\/themes\/custom\/baseline_main\/assets\/third-party\/formidabel\/js\/formidabel.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/youtube\/css\/youtube.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/plain\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/fancybox\/jquery.fancybox-1.3.1.css":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/default\/files\/honeypot\/honeypot.css":1,"sites\/all\/themes\/custom\/baseline_main\/css\/styles-ieLT9.css":1,"0":1,"sites\/all\/themes\/custom\/baseline\/src\/_utils\/utils.css":1,"sites\/all\/themes\/custom\/baseline\/src\/base\/base-ausy.css":1,"sites\/all\/themes\/custom\/baseline\/src\/cleanup\/clean-form.css":1,"sites\/all\/themes\/custom\/baseline\/src\/cleanup\/clean-layout.css":1,"sites\/all\/themes\/custom\/baseline\/src\/cleanup\/font\/clean-font.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/admin-tabs\/admin-tabs.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/back-to-top\/back-to-top.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/before-after\/before-after.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/banner-video\/banner-video.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/block-search\/block-search.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/boxed-media\/boxed-media.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/branding-logo\/branding-logo.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/breadcrumb\/breadcrumb.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/brick-grid\/brick-grid.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/button-stack\/button-stack.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/cta-banner\/cta-banner.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/cta-button\/cta-button.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/cta-icon\/cta-icon.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/cta-link\/cta-link.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/domain-dropdown-toggle\/l-domain-dropdown-toggle.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/dropdown\/dropdown.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/eboard-homepage\/eboard-homepage.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/eu_cookie_compliance-custom\/eu_cookie_compliance-custom.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/filter-item\/filter-item.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/filter-multiselect\/filter-multiselect.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/fine-hr\/fine-hr.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/format-list\/format-list.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/icon-description\/icon-description.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/information-box\/information-box.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/landing-page-hero\/landing-page-hero.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/linge-brochure-stalen-contact-selligent-block\/linge_brochure_stalen_contact_selligent_block.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/list-inspirations\/list-inspirations.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/main-menu\/main-menu.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/masonry-arrow-teaser\/masonry-arrow-teaser.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/mobile-menu\/mobile-menu.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/openable-box\/openable-box.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/popover-box\/popover-box.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/search-result\/search-result.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/short-preview\/short-preview.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/simple-banner\/simple-banner.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/simple-blockquote\/simple-blockquote.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/simple-file-download\/simple-file-download.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/simple-image-grid-item\/simple-image-grid-item.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/simple-image-header\/simple-image-header.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/simple-text-image-aside\/simple-text-image-aside.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/site-logo\/site-logo.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/subsite-links\/subsite-links.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/title-group\/title-group.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/top-menu-item\/top-menu-item.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/vds-productselector-filter\/vds-productselector-filter.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component-eboard\/c-slider\/c-slider.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component-eboard\/landing-page-bullet-image\/landing-page-bullet-image.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component-eboard\/landing-page-button\/landing-page-button.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component-eboard\/landing-page-cta\/landing-page-cta.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component-eboard\/landing-page-cta-alt\/landing-page-cta-alt.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component-eboard\/landing-page-fulltext\/landing-page-fulltext.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component-eboard\/landing-page-heading\/landing-page-heading.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component-eboard\/landing-page-highlight\/landing-page-highlight.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component-eboard\/landing-page-ref\/landing-page-ref.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component-eboard\/landing-page-tech\/landing-page-tech.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component-eboard\/landing-page-youtube\/landing-page-youtube.css":1,"sites\/all\/themes\/custom\/baseline\/src\/layout\/l-admin-bar.css":1,"sites\/all\/themes\/custom\/baseline\/src\/layout\/l-banner\/l-banner.css":1,"sites\/all\/themes\/custom\/baseline\/src\/layout\/l-bordered-banner\/l-bordered-banner.css":1,"sites\/all\/themes\/custom\/baseline\/src\/layout\/l-captioned-preview\/l-captioned-preview.css":1,"sites\/all\/themes\/custom\/baseline\/src\/layout\/l-domain-dropdown\/l-domain-dropdown.css":1,"sites\/all\/themes\/custom\/baseline\/src\/layout\/l-footer\/l-footer.css":1,"sites\/all\/themes\/custom\/baseline\/src\/layout\/l-form-row\/l-form-row.css":1,"sites\/all\/themes\/custom\/baseline\/src\/layout\/l-header\/l-header.css":1,"sites\/all\/themes\/custom\/baseline\/src\/layout\/l-multi-preview\/l-multi-preview.css":1,"sites\/all\/themes\/custom\/baseline\/src\/layout\/l-subheader\/l-subheader.css":1,"sites\/all\/themes\/custom\/baseline\/src\/layout\/layout.css":1,"sites\/all\/themes\/custom\/baseline\/src\/misc\/misc.css":1,"sites\/all\/themes\/custom\/baseline\/src\/component\/simple-slideshow\/simple-slideshow.css":1,"sites\/all\/themes\/custom\/baseline_main\/assets\/third-party\/formidabel\/css\/formidabel.css":1,"sites\/all\/themes\/custom\/baseline_main\/legacy\/wienibase\/css\/base.css":1,"sites\/all\/themes\/custom\/baseline_main\/legacy\/wienisubtheme\/css\/styles.css":1,"sites\/all\/themes\/custom\/baseline_main\/legacy\/wienisubtheme\/hotfix.css":1,"sites\/all\/modules\/custom\/wmcustom\/css\/dop.css":1,"sites\/all\/themes\/custom\/baseline_main\/legacy\/wienisubtheme\/css\/styles-ieLT9.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"fancybox":{"options":{"margin":0,"padding":0,"speedIn":0,"speedOut":0,"changeSpeed":0},"selector":".fancybox-popup"},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":0,"popup_scrolling_confirmation":0,"popup_html_info":"\u003Cdiv\u003E\n    \u003Cdiv class=\u0022popup-content info\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022\u003E\n          Korzystaj\u0105c z tej strony, akceptujesz pliki cookies, kt\u00f3re u\u0142atwiaj\u0105 przegl\u0105danie stron.        \u003C\/div\u003E\n        \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022\n                    class=\u0022agree-button\u0022\u003EAkceptuj\u0119\u003C\/button\u003E\n            \u003Ca  class=\u0022more-info-cookie\u0022 href=\u0022https:\/\/www.shared.vandersanden.com\/policies\/Cookie_Policy_PL.pdf\u0022 target=\u0022_blank\u0022\u003E\n                Wi\u0119cej informacji            \u003C\/a\u003E\n        \u003C\/div\u003E\n    \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv\u003E\n    \u003Cdiv class=\u0022popup-content info\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022\u003E\n          Korzystaj\u0105c z tej strony, akceptujesz pliki cookies, kt\u00f3re u\u0142atwiaj\u0105 przegl\u0105danie stron.        \u003C\/div\u003E\n        \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022\n                    class=\u0022agree-button\u0022\u003EAkceptuj\u0119\u003C\/button\u003E\n            \u003Ca  class=\u0022more-info-cookie\u0022 href=\u0022https:\/\/www.shared.vandersanden.com\/policies\/Cookie_Policy_PL.pdf\u0022 target=\u0022_blank\u0022\u003E\n                Wi\u0119cej informacji            \u003C\/a\u003E\n        \u003C\/div\u003E\n    \u003C\/div\u003E\n\u003C\/div\u003E\n","mobile_breakpoint":"768","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\n\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EHide\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/bricks\/pl","popup_link_new_window":1,"popup_position":null,"popup_language":"pl","better_support_for_screen_readers":0,"reload_page":0,"domain":"","popup_eu_only_js":0,"cookie_lifetime":"100","disagree_do_not_show_popup":0},"urlIsAjaxTrusted":{"\/bricks\/pl\/cegla-plytki\/carbon":true},"wmcustom":{"dop_api_uri":"https:\/\/www.fiches.vandersanden.com\/api\/dop\/"}});
+//--><!]]>
+</script>
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//use.typekit.net/oqu8hpb.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+  <link rel="shortcut icon" href="/sites/all/themes/custom/baseline/assets/favicon/favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" href="/sites/all/themes/custom/baseline/assets/favicon/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" href="/sites/all/themes/custom/baseline/assets/favicon/favicon-16x16.png" sizes="16x16">
+  <link rel="icon" type="image/png" href="/sites/all/themes/custom/baseline/assets/favicon/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="/sites/all/themes/custom/baseline/assets/favicon/favicon-64x64.png" sizes="64x64">
+  <link rel="icon" type="image/png" href="/sites/all/themes/custom/baseline/assets/favicon/favicon-64x64.png" sizes="64x64">
+  <link rel="icon" type="image/png" href="/sites/all/themes/custom/baseline/assets/favicon/android-chrome-192x192.png" sizes="192x192">
+  <link rel="icon" type="image/png" href="/sites/all/themes/custom/baseline/assets/favicon/android-chrome-256x256.png" sizes="256x256">
+  <link rel="icon" type="image/png" href="/sites/all/themes/custom/baseline/assets/favicon/favicon-260x260.png" sizes="260x260">
+  <link rel="manifest" href="/sites/all/themes/custom/baseline/assets/favicon/site.webmanifest">
+  <link rel="mask-icon" href="/sites/all/themes/custom/baseline/assets/favicon/safari-pinned-tab.svg" color="#ffffff">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/sites/all/themes/custom/baseline/assets/favicon/ms-tile-150x150.png">
+  <meta name="msapplication-config" content="/sites/all/themes/custom/baseline/assets/favicon/browserconfig.xml">
+  <meta name="theme-color" content="#ffffff">
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-6361 node-type-brick domain-vds-bricks language--pl tld--pl i18n-pl section-cegla-plytki" >
+  
+      <!-- Google Tag Manager -->
+      <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-PL2Z2V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+      </noscript>
+      <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-PL2Z2V');
+      </script>
+      <!-- End Google Tag Manager -->  <div id="wrapper">
+
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Przejdź do treści</a>
+      </div>
+
+    <header class="l-header" role="banner">
+  <div class="l-header__top">
+    <div class="l-header__container container-fluid">
+      <div class="row">
+        <div class="l-header__top-left col-9 col-md-8 col-sm-9">
+                  </div>
+
+        <div class="l-header__top-right col-3 col-md-4 col-sm-3">
+                  </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="l-header__overlay">
+
+  </div>
+
+  <div class="l-header__middle">
+    <div class="l-header__container">
+      <div class="row justify-content-between no-gutters">
+        <div class="col-3">
+          <div class="region region-header-logo clearfix">
+  <a href="https://www.vandersandengroup.pl/group/pl" class="site-logo">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 655 260.29"><defs><style>.cls-1{fill:#305060;}.cls-2{fill:#963;}</style></defs><title>logo vds</title><g id="Layer_2" data-name="Layer 2"><g id="Laag_1" data-name="Laag 1"><path class="cls-1" d="M375.32,225.59a8.59,8.59,0,0,0-8.78-8.38h-11.3V202.85h17.58a2.44,2.44,0,0,0,2.5-2.39v-12H346.46a8.6,8.6,0,0,0-8.8,8.38V223.2a8.59,8.59,0,0,0,8.8,8.37h11.29v14.36H337.66v12a2.46,2.46,0,0,0,2.51,2.4h26.37a8.6,8.6,0,0,0,8.78-8.38Z"/><path class="cls-1" d="M267,202.85V188.5H240.6a8.59,8.59,0,0,0-8.78,8.38v55a8.58,8.58,0,0,0,8.78,8.37h23.86a2.46,2.46,0,0,0,2.51-2.4v-12H249.39V231.57H267V217.21H249.39V202.85Z"/><path class="cls-1" d="M27.61,226.8c0,7.17-2.45,14.35-5,16.73-2.51-2.38-5.07-9.56-5.07-16.73V188.5H0v35.88a58.88,58.88,0,0,0,12.61,35.9h20a59.06,59.06,0,0,0,12.54-35.9V188.5H27.61Z"/><path class="cls-1" d="M94.39,188.5H66.72A8.59,8.59,0,0,0,58,196.88v63.41H75.56V241.14h10v19.15h17.58V196.88a8.59,8.59,0,0,0-8.79-8.38M85.6,226.78h-10V205.25a2.46,2.46,0,0,1,2.51-2.4h5a2.46,2.46,0,0,1,2.5,2.4Z"/><path class="cls-1" d="M597.06,202.85V188.5H570.7a8.59,8.59,0,0,0-8.79,8.38v55a8.59,8.59,0,0,0,8.79,8.37h23.85a2.46,2.46,0,0,0,2.51-2.4v-12H579.48V231.57h17.58V217.21H579.48V202.85Z"/><path class="cls-1" d="M424.48,188.5H396.81a8.6,8.6,0,0,0-8.74,8.38v63.41h17.57V241.14h10.05v19.15h17.58V196.88a8.59,8.59,0,0,0-8.79-8.38m-8.79,38.28H405.64V205.25a2.47,2.47,0,0,1,2.52-2.4h5a2.46,2.46,0,0,1,2.51,2.4Z"/><path class="cls-1" d="M152.33,188.5h-8.79c-6.24,0-10,5.56-10,12v-9.57a2.45,2.45,0,0,0-2.5-2.39H115.93v71.79H133.5v-55a2.46,2.46,0,0,1,2.51-2.4h5a2.45,2.45,0,0,1,2.51,2.4v54.91h17.58V196.87a8.59,8.59,0,0,0-8.79-8.37"/><path class="cls-1" d="M324.91,196.88a8.59,8.59,0,0,0-8.78-8.38h-8.79c-6.25,0-10,5.56-10,12v-9.57a2.45,2.45,0,0,0-2.5-2.39H279.72v71.79h17.57V231.57h7.53a2.46,2.46,0,0,1,2.52,2.39v23.92h0a2.45,2.45,0,0,0,2.5,2.39h15.07V232.77a8.59,8.59,0,0,0-8.78-8.38h0a8.59,8.59,0,0,0,8.79-8.37Zm-17.57,17.94h0a2.47,2.47,0,0,1-2.52,2.39h-7.53v-12a2.47,2.47,0,0,1,2.52-2.4h5a2.46,2.46,0,0,1,2.52,2.4Z"/><path class="cls-1" d="M482.42,188.5h-8.79c-6.24,0-10,5.56-10,12v-9.57a2.45,2.45,0,0,0-2.51-2.39H446v71.79h17.57v-55a2.46,2.46,0,0,1,2.51-2.4h5a2.46,2.46,0,0,1,2.51,2.4v54.91h17.58V196.87a8.59,8.59,0,0,0-8.79-8.37"/><path class="cls-1" d="M646.21,188.5h-8.78c-6.25,0-10,5.56-10,12v-9.57a2.45,2.45,0,0,0-2.51-2.39H609.8v71.79h17.58v-55a2.46,2.46,0,0,1,2.52-2.4h5a2.47,2.47,0,0,1,2.52,2.4v54.91H655V196.87a8.59,8.59,0,0,0-8.79-8.37"/><path class="cls-1" d="M210.27,188.5H173.88v71.78h15.06a2.44,2.44,0,0,0,2.5-2.39v-9.57c0,6.4,3.8,12,10.05,12h8.78a8.6,8.6,0,0,0,8.8-8.37v-55a8.6,8.6,0,0,0-8.8-8.38m-8.78,55h0a2.46,2.46,0,0,1-2.52,2.4h-5a2.47,2.47,0,0,1-2.52-2.4V202.85H199a2.46,2.46,0,0,1,2.51,2.4Z"/><path class="cls-1" d="M540.37,188.5H504v71.78H519a2.46,2.46,0,0,0,2.51-2.39v-9.57c0,6.4,3.8,12,10.05,12h8.76a0,0,0,0,1,0,0,8.59,8.59,0,0,0,8.8-8.37v-55a8.59,8.59,0,0,0-8.78-8.38m-8.79,55h0a2.46,2.46,0,0,1-2.51,2.4h-5a2.46,2.46,0,0,1-2.51-2.4V202.85h7.54a2.46,2.46,0,0,1,2.51,2.4Z"/><path class="cls-1" d="M227.6,46.93l63.15,96.37,11.32-72.56L285.6,49.56a239,239,0,0,1-58-2.63"/><path class="cls-2" d="M326.63,42.31l-35.88,101H362.7L436.84,0c-31.62,14.79-73.53,32.6-110.21,42.31"/></g></g></svg></a></div>
+ <!-- /.region -->
+        </div>
+
+        <div class="col-9">
+          <div class="region region-header-search clearfix">
+  <section id="block-menu-menu-topmenu" class="block block-menu" >
+    <div class="desktop_only">
+                        
+        <div class="content">
+            <ul class="menu"><li class="first last leaf menu-1271  menu-newsletter"><a href="/bricks/pl/newsletter">Newsletter</a></li>
+</ul>        </div>
+    </div>
+</section> <!-- /.block -->
+<section id="block-vds-vds-subsite-extra-links" class="block block-vds">
+
+      
+  <div class="content">
+    <div class="item-list"><ul><li class="professionals top-menu-item first"><a href="/professionals/pl">Pliki do pobrania</a></li>
+<li class="showroom top-menu-item"><a href="/group/pl/zaklady">Salony</a></li>
+<li class="contact top-menu-item last"><a href="/group/pl/contact">Kontakt</a></li>
+</ul></div>  </div>
+
+</section> <!-- /.block -->
+<section id="block-vds-vds-domains-dropdown" class="block block-vds">
+
+      
+  <div class="content">
+    
+<div class="top-menu-item">
+  <a class="vds-domains-dropdown-toggle l-domain-dropdown__toggle" href="#">
+  <span class="tablet_only">pl</span>
+  <span class="desktop_only">Wybierz swój kraj</span>
+</a></div>
+
+<div class="l-domain-dropdown js-domain-dropdown">
+  <span class="top_bar mobile_only"></span>
+
+  <div class="l-domain-dropdown__list js-domain-dropdown-list" style="display:none;">
+    <div class="l-domain-dropdown__container">
+      <ul>
+        
+                            <li>
+            <a href="http://www.vandersandengroup.by/bricks/ru/kirpich-kirpichnaya-plitka/carbon">
+            Belarus            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.be/bricks/de/verblender-riemchen/carbon">
+            Belgien            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.be/bricks/fr/brique-de-parement-plaquette/carbon">
+            Belgique            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.be/bricks/nl-be/gevelsteen-steenstrip/carbon">
+            België            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Bosnia and Herzegovina            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Bulgaria            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Croatia            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Cyprus            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.cz/bricks/en/brick-brickslip/carbon">
+            Czech Republic            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.dk/bricks/en/brick-brickslip/carbon">
+            Denmark            </a>
+          </li>
+                            </ul><ul>          <li>
+            <a href="http://www.vandersandengroup.de/bricks/de/verblender-riemchen/carbon">
+            Deutschland            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Estonia            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Finland            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.fr/bricks/fr/brique-de-parement-plaquette/carbon">
+            France            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.ru/bricks/ru/kirpich-kirpichnaya-plitka/carbon">
+            Georgia            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Greece            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Hungary            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Iran            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.ie/bricks/en/brick-brickslip/carbon">
+            Ireland            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Italy            </a>
+          </li>
+                            </ul><ul>          <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Kosovo            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Latvia            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Lebanon            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.lt/bricks/en/brick-brickslip/carbon">
+            Lithuania            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.fr/bricks/fr/brique-de-parement-plaquette/carbon">
+            Luxembourg            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.de/bricks/de/verblender-riemchen/carbon">
+            Luxemburg            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.fr/bricks/fr/brique-de-parement-plaquette/carbon">
+            Maroc            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Montenegro            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.nl/bricks/nl-nl/gevelsteen-steenstrip/carbon">
+            Nederland            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Norway            </a>
+          </li>
+                            </ul><ul>          <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Other countries            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.pl/bricks/pl/cegla-plytki/carbon">
+            Polska            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Portugal            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.ro/bricks/en/brick-brickslip/carbon">
+            Romania            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.ru/bricks/ru/kirpich-kirpichnaya-plitka/carbon">
+            Rossija            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.ch/bricks/de/verblender-riemchen/carbon">
+            Schweiz            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Serbia            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Slovakia            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Slovenia            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Spain            </a>
+          </li>
+                            </ul><ul>          <li>
+            <a href="http://www.vandersandengroup.ch/bricks/fr/brique-de-parement-plaquette/carbon">
+            Suisse            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.se/bricks/en/brick-brickslip/carbon">
+            Sweden            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com.tr/bricks/tr/tugla-kilicina-kaplama-tuglalari/carbon">
+            Türkiye            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.ru/bricks/ru/kirpich-kirpichnaya-plitka/carbon">
+            Ukrayina            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.co.uk/bricks/en-gb/carbon">
+            United Kingdom - Vandersanden UK            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.de/bricks/de/verblender-riemchen/carbon">
+            Österreich            </a>
+          </li>
+                        </ul>
+      <a class="vds-domains-dropdown-toggle tablet_desktop_only" href="#">&nbsp;</a>
+    </div>
+  </div>
+  <a class="vds-domains-dropdown-toggle mobile_only" href="#">&nbsp;</a>
+  <div class="clearfix"></div>
+</div>
+
+<div class="l-domain-mobile-dropdown js-domain-dropdown js-domain-dropdown-list">
+  <span class="top_bar mobile_only"></span>
+
+  <div class="l-domain-dropdown__list js-domain-dropdown-list" style="display:none;">
+    <div class="l-domain-dropdown__container">
+      <div>
+        <ul>
+          
+                                  <li>
+              <a href="http://www.vandersandengroup.by/bricks/ru/kirpich-kirpichnaya-plitka/carbon">
+              Belarus              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.be/bricks/de/verblender-riemchen/carbon">
+              Belgien              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.be/bricks/fr/brique-de-parement-plaquette/carbon">
+              Belgique              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.be/bricks/nl-be/gevelsteen-steenstrip/carbon">
+              België              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Bosnia and Herzegovina              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Bulgaria              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Croatia              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Cyprus              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.cz/bricks/en/brick-brickslip/carbon">
+              Czech Republic              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.dk/bricks/en/brick-brickslip/carbon">
+              Denmark              </a>
+            </li>
+                                  </ul><ul>            <li>
+              <a href="http://www.vandersandengroup.de/bricks/de/verblender-riemchen/carbon">
+              Deutschland              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Estonia              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Finland              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.fr/bricks/fr/brique-de-parement-plaquette/carbon">
+              France              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.ru/bricks/ru/kirpich-kirpichnaya-plitka/carbon">
+              Georgia              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Greece              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Hungary              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Iran              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.ie/bricks/en/brick-brickslip/carbon">
+              Ireland              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Italy              </a>
+            </li>
+                                  </ul><ul>            <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Kosovo              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Latvia              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Lebanon              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.lt/bricks/en/brick-brickslip/carbon">
+              Lithuania              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.fr/bricks/fr/brique-de-parement-plaquette/carbon">
+              Luxembourg              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.de/bricks/de/verblender-riemchen/carbon">
+              Luxemburg              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.fr/bricks/fr/brique-de-parement-plaquette/carbon">
+              Maroc              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Montenegro              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.nl/bricks/nl-nl/gevelsteen-steenstrip/carbon">
+              Nederland              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Norway              </a>
+            </li>
+                                  </ul><ul>            <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Other countries              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.pl/bricks/pl/cegla-plytki/carbon">
+              Polska              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Portugal              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.ro/bricks/en/brick-brickslip/carbon">
+              Romania              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.ru/bricks/ru/kirpich-kirpichnaya-plitka/carbon">
+              Rossija              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.ch/bricks/de/verblender-riemchen/carbon">
+              Schweiz              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Serbia              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Slovakia              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Slovenia              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Spain              </a>
+            </li>
+                                  </ul><ul>            <li>
+              <a href="http://www.vandersandengroup.ch/bricks/fr/brique-de-parement-plaquette/carbon">
+              Suisse              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.se/bricks/en/brick-brickslip/carbon">
+              Sweden              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com.tr/bricks/tr/tugla-kilicina-kaplama-tuglalari/carbon">
+              Türkiye              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.ru/bricks/ru/kirpich-kirpichnaya-plitka/carbon">
+              Ukrayina              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.co.uk/bricks/en-gb/carbon">
+              United Kingdom - Vandersanden UK              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.de/bricks/de/verblender-riemchen/carbon">
+              Österreich              </a>
+            </li>
+                              </ul>
+      </div>
+      <a class="vds-domains-dropdown-toggle tablet_desktop_only" href="#">&nbsp;</a>
+    </div>
+  </div>
+  <a class="vds-domains-dropdown-toggle mobile_only" href="#">&nbsp;</a>
+  <div class="clearfix"></div>
+</div>
+  </div>
+
+</section> <!-- /.block -->
+<section id="block-search-form" class="block block-search">
+
+      
+  <div class="content">
+    <form action="/bricks/pl/cegla-plytki/carbon" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+  <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Szukaj </label>
+ <input title="Wprowadź słowa, które mają zostać wyszukane." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Szukaj" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-ysshr08SC0alwPVXCYrwCa2flN4jZ4vJK3x6ibmGQS4" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+
+</section> <!-- /.block -->
+</div>
+ <!-- /.region -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="l-header__bottom">
+    <div class="l-header__container container-fluid">
+      <div class="region region-header-main clearfix">
+  <div id="block-vds-vds-subsite-links" class="block block-vds">
+
+      
+  <div class="content">
+    <div class="item-list"><ul id="vds-subsite-links" class="subsite-links"><li class="group first"><a href="/">Corporate</a></li>
+<li class="bricks active"><a href="/bricks/pl">CEGŁY i PŁYTKI</a></li>
+<li class="huwa last"><a href="/huwa/pl">Bruki</a></li>
+</ul></div>  </div>
+</div>
+</div>
+ <!-- /.region -->
+    </div>
+  </div>
+
+  <div class="l-menu_header">
+    <div class="l-menu_header__container container-fluid">
+      <div class="region region-menu-header clearfix">
+  <div id="block-vdg-menu-vdg-menu-main-menu" class="block block-vdg-menu main-menu" >
+
+      
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-vdg_menu_main_menu menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-1245 menu-1245  menu-start"><a href="/bricks/pl">Start</a></li>
+<li class="expanded menu-mlid-1246 menu-1246  menu-ocegach"><a href="/bricks/pl/produkty">O cegłach</a><ul class="menu"><li class="first leaf menu-mlid-1249 menu-1249  menu-cegyelewacyjne"><a href="/bricks/pl/produkty/cegly-recznie-formowane">Cegły elewacyjne</a></li>
+<li class="leaf menu-mlid-1251 menu-1251  menu-pytkircznieformowane"><a href="/bricks/pl/produkty/plytki-recznie-formowane">Płytki ręcznie formowane</a></li>
+<li class="leaf menu-mlid-1248 menu-1248  menu-zero"><a href="/bricks/pl/produkty/zeror-bezfugowy-efekt-przy-tradycyjnym-murowaniu">Zero®</a></li>
+<li class="last leaf menu-mlid-1250 menu-1250  menu-ksztatki"><a href="/bricks/pl/produkty/ksztaltki">Kształtki</a></li>
+</ul></li>
+<li class="leaf active-trail menu-mlid-1253 menu-1253  menu-kolory"><a href="/bricks/pl/kolory" class="active-trail">Kolory</a></li>
+<li class="leaf menu-mlid-1340 menu-1340  menu-dystrybutorzy"><a href="/bricks/pl/dealers" title="">Dystrybutorzy</a></li>
+<li class="leaf menu-mlid-1256 menu-1256  menu-galeria"><a href="/bricks/pl/galeria">Galeria</a></li>
+<li class="leaf menu-mlid-1252 menu-1252  menu-porady"><a href="/bricks/pl/porady">Porady</a></li>
+<li class="leaf menu-mlid-1338 menu-1338  menu-aktualnoci"><a href="/bricks/pl/aktualnosci">Aktualności</a></li>
+<li class="last expanded menu-mlid-1272 menu-1272  menu-materiayinformacyjne"><a href="/bricks/pl/materialy-informacyjne">Materiały informacyjne</a><ul class="menu"><li class="first leaf menu-mlid-1511 menu-1511  menu-architekt"><a href="/bricks/pl/materialy-informacyjne/architekt">Architekt</a></li>
+<li class="leaf menu-mlid-1509 menu-1509  menu-inwestorprywatny"><a href="/bricks/pl/materialy-informacyjne/inwestor-prywatny">Inwestor Prywatny</a></li>
+<li class="leaf menu-mlid-1515 menu-1515  menu-managerprojektu"><a href="/bricks/pl/materialy-informacyjne/manager-projektu">Manager Projektu</a></li>
+<li class="last leaf menu-mlid-1513 menu-1513  menu-wykonawca"><a href="/bricks/pl/materialy-informacyjne/wykonawca">Wykonawca</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+</div>
+ <!-- /.region -->
+        <div id="breadcrumb">
+    <div class="breadcrumb"><span class="breadcrumb__title">Jesteś tutaj: </span><nav class="breadcrumb__list"><ol itemscope itemtype="http://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/bricks/pl"><span itemprop="name">Strona główna</span></a><meta itemprop="position" content="0" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/bricks/pl/kolory"><span itemprop="name">Kolory</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span itemprop="name">Carbon</span><meta itemprop="position" content="2" /></li></ol></nav></div>  </div>
+    </div>
+  </div>
+</header>
+  <header id="header" role="banner" class="l-mobile-header clearfix">
+  <div id="header-inner" class="inner">
+    <a href="https://www.vandersandengroup.pl/group/pl" class="site-logo -mobile">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 655 260.29"><defs><style>.cls-1{fill:#305060;}.cls-2{fill:#963;}</style></defs><title>logo vds</title><g id="Layer_2" data-name="Layer 2"><g id="Laag_1" data-name="Laag 1"><path class="cls-1" d="M375.32,225.59a8.59,8.59,0,0,0-8.78-8.38h-11.3V202.85h17.58a2.44,2.44,0,0,0,2.5-2.39v-12H346.46a8.6,8.6,0,0,0-8.8,8.38V223.2a8.59,8.59,0,0,0,8.8,8.37h11.29v14.36H337.66v12a2.46,2.46,0,0,0,2.51,2.4h26.37a8.6,8.6,0,0,0,8.78-8.38Z"/><path class="cls-1" d="M267,202.85V188.5H240.6a8.59,8.59,0,0,0-8.78,8.38v55a8.58,8.58,0,0,0,8.78,8.37h23.86a2.46,2.46,0,0,0,2.51-2.4v-12H249.39V231.57H267V217.21H249.39V202.85Z"/><path class="cls-1" d="M27.61,226.8c0,7.17-2.45,14.35-5,16.73-2.51-2.38-5.07-9.56-5.07-16.73V188.5H0v35.88a58.88,58.88,0,0,0,12.61,35.9h20a59.06,59.06,0,0,0,12.54-35.9V188.5H27.61Z"/><path class="cls-1" d="M94.39,188.5H66.72A8.59,8.59,0,0,0,58,196.88v63.41H75.56V241.14h10v19.15h17.58V196.88a8.59,8.59,0,0,0-8.79-8.38M85.6,226.78h-10V205.25a2.46,2.46,0,0,1,2.51-2.4h5a2.46,2.46,0,0,1,2.5,2.4Z"/><path class="cls-1" d="M597.06,202.85V188.5H570.7a8.59,8.59,0,0,0-8.79,8.38v55a8.59,8.59,0,0,0,8.79,8.37h23.85a2.46,2.46,0,0,0,2.51-2.4v-12H579.48V231.57h17.58V217.21H579.48V202.85Z"/><path class="cls-1" d="M424.48,188.5H396.81a8.6,8.6,0,0,0-8.74,8.38v63.41h17.57V241.14h10.05v19.15h17.58V196.88a8.59,8.59,0,0,0-8.79-8.38m-8.79,38.28H405.64V205.25a2.47,2.47,0,0,1,2.52-2.4h5a2.46,2.46,0,0,1,2.51,2.4Z"/><path class="cls-1" d="M152.33,188.5h-8.79c-6.24,0-10,5.56-10,12v-9.57a2.45,2.45,0,0,0-2.5-2.39H115.93v71.79H133.5v-55a2.46,2.46,0,0,1,2.51-2.4h5a2.45,2.45,0,0,1,2.51,2.4v54.91h17.58V196.87a8.59,8.59,0,0,0-8.79-8.37"/><path class="cls-1" d="M324.91,196.88a8.59,8.59,0,0,0-8.78-8.38h-8.79c-6.25,0-10,5.56-10,12v-9.57a2.45,2.45,0,0,0-2.5-2.39H279.72v71.79h17.57V231.57h7.53a2.46,2.46,0,0,1,2.52,2.39v23.92h0a2.45,2.45,0,0,0,2.5,2.39h15.07V232.77a8.59,8.59,0,0,0-8.78-8.38h0a8.59,8.59,0,0,0,8.79-8.37Zm-17.57,17.94h0a2.47,2.47,0,0,1-2.52,2.39h-7.53v-12a2.47,2.47,0,0,1,2.52-2.4h5a2.46,2.46,0,0,1,2.52,2.4Z"/><path class="cls-1" d="M482.42,188.5h-8.79c-6.24,0-10,5.56-10,12v-9.57a2.45,2.45,0,0,0-2.51-2.39H446v71.79h17.57v-55a2.46,2.46,0,0,1,2.51-2.4h5a2.46,2.46,0,0,1,2.51,2.4v54.91h17.58V196.87a8.59,8.59,0,0,0-8.79-8.37"/><path class="cls-1" d="M646.21,188.5h-8.78c-6.25,0-10,5.56-10,12v-9.57a2.45,2.45,0,0,0-2.51-2.39H609.8v71.79h17.58v-55a2.46,2.46,0,0,1,2.52-2.4h5a2.47,2.47,0,0,1,2.52,2.4v54.91H655V196.87a8.59,8.59,0,0,0-8.79-8.37"/><path class="cls-1" d="M210.27,188.5H173.88v71.78h15.06a2.44,2.44,0,0,0,2.5-2.39v-9.57c0,6.4,3.8,12,10.05,12h8.78a8.6,8.6,0,0,0,8.8-8.37v-55a8.6,8.6,0,0,0-8.8-8.38m-8.78,55h0a2.46,2.46,0,0,1-2.52,2.4h-5a2.47,2.47,0,0,1-2.52-2.4V202.85H199a2.46,2.46,0,0,1,2.51,2.4Z"/><path class="cls-1" d="M540.37,188.5H504v71.78H519a2.46,2.46,0,0,0,2.51-2.39v-9.57c0,6.4,3.8,12,10.05,12h8.76a0,0,0,0,1,0,0,8.59,8.59,0,0,0,8.8-8.37v-55a8.59,8.59,0,0,0-8.78-8.38m-8.79,55h0a2.46,2.46,0,0,1-2.51,2.4h-5a2.46,2.46,0,0,1-2.51-2.4V202.85h7.54a2.46,2.46,0,0,1,2.51,2.4Z"/><path class="cls-1" d="M227.6,46.93l63.15,96.37,11.32-72.56L285.6,49.56a239,239,0,0,1-58-2.63"/><path class="cls-2" d="M326.63,42.31l-35.88,101H362.7L436.84,0c-31.62,14.79-73.53,32.6-110.21,42.31"/></g></g></svg>    </a>
+
+    <div class="region region-header-mobile clearfix">
+  <section id="block-vds-vds-mobile-menu" class="block block-vds">
+
+      
+  <div class="content">
+    <ul><li class=""><a href="https://www.vandersandengroup.pl/">Corporate</a><span class="arrow"></span><ul id="depth10" class=""><li class=""><a href="/group/pl/slowo-o-vandersanden-group">Słowo o Vandersanden</a></li><li class=""><a href="/group/pl/misja">Misja</a></li><li class=""><a href="/group/pl/eco">Ekologia</a><span class="arrow"></span><ul id="depth10-depth22" class=""><li class=""><a href="/group/pl/eco">Środowisko i otoczenie</a></li><li class=""><a href="/group/pl/eko/cegly-przyjazne-dla-srodowiska">Cegła, produkt zrównoważony</a></li></ul></li><li class=""><a href="/group/pl/historia">Historia</a></li><li class=""><a href="/group/pl/zaklady">Zakłady</a></li><li class=""><a href="/group/pl/aktualnosci-0">Aktualności</a></li></ul></li><li class="open"><a href="https://www.vandersandengroup.pl/bricks/pl">CEGŁY i PŁYTKI</a><span class="arrow"></span><ul id="depth11" class="is-active"><li class="open"><a href="/bricks/pl">Start</a></li><li class="open"><a href="/bricks/pl/produkty">O cegłach</a><span class="arrow"></span><ul id="depth11-depth21" class=""><li class=""><a href="/bricks/pl/produkty/cegly-recznie-formowane">Cegły elewacyjne</a></li><li class=""><a href="/bricks/pl/produkty/plytki-recznie-formowane">Płytki ręcznie formowane</a></li><li class=""><a href="/bricks/pl/produkty/zeror-bezfugowy-efekt-przy-tradycyjnym-murowaniu">Zero®</a></li><li class=""><a href="/bricks/pl/produkty/ksztaltki">Kształtki</a></li></ul></li><li class="open"><a href="/bricks/pl/kolory">Kolory</a></li><li class="open"><a href="/bricks/pl/dealers">Dystrybutorzy</a></li><li class="open"><a href="/bricks/pl/galeria">Galeria</a></li><li class="open"><a href="/bricks/pl/porady">Porady</a></li><li class="open"><a href="/bricks/pl/aktualnosci">Aktualności</a></li><li class="open"><a href="/bricks/pl/materialy-informacyjne">Materiały informacyjne</a><span class="arrow"></span><ul id="depth11-depth27" class=""><li class=""><a href="/bricks/pl/materialy-informacyjne/architekt">Architekt</a></li><li class=""><a href="/bricks/pl/materialy-informacyjne/inwestor-prywatny">Inwestor Prywatny</a></li><li class=""><a href="/bricks/pl/materialy-informacyjne/manager-projektu">Manager Projektu</a></li><li class=""><a href="/bricks/pl/materialy-informacyjne/wykonawca">Wykonawca</a></li></ul></li><li class="open"><a href="/bricks/pl/newsletter">Newsletter</a></li></ul></li><li class=""><a href="https://www.vandersandengroup.pl/brickslips/pl">Płytki</a></li><li class=""><a href="https://www.vandersandengroup.pl/huwa/pl">Bruki</a><span class="arrow"></span><ul id="depth13" class=""><li class=""><a href="/huwa/pl">Start</a></li><li class=""><a href="/huwa/pl/zalety-brukow-vandersanden">O brukach</a><span class="arrow"></span><ul id="depth13-depth21" class=""><li class=""><a href="/huwa/pl/zalety-brukow-vandersanden">Zalety bruków</a></li><li class=""><a href="/huwa/pl/produkty-huwa/typy-brukow-huwa-formaty">Rodzaje i formaty</a></li><li class=""><a href="/huwa/pl/dlaczego-huwa/huwa-podstawa-najwyzszej-jakosci">Ekologia</a></li></ul></li><li class=""><a href="/huwa/pl/kolory-huwa">Kolory</a></li><li class=""><a href="/huwa/pl/galeria-huwa">Galeria</a></li><li class=""><a href="/huwa/pl/kontakt-1">Kontakt</a></li></ul></li><li class=""><a href="https://www.vandersandengroup.pl/ebrick/pl">E-Brick®</a></li><li class=""><a href="https://www.vandersandengroup.pl/eboard/pl">E-Board®</a></li><li class=""><a href="https://www.vandersanden-signa.com/">Signa®</a></li><li class=""><a href="https://www.vandersandengroup.pl/professionals/pl">Pliki do pobrania</a><span class="arrow"></span><ul id="depth17" class=""><li class=""><a href="/professionals/pl">Start</a></li><li class=""><a href="/professionals/pl/cegly">Cegły</a></li><li class=""><a href="/professionals/pl/zero">Zero</a></li><li class=""><a href="/professionals/pl/bruki">Bruki</a></li><li class=""><a href="/professionals/pl/nawet-wiecej">Nawet więcej</a></li></ul></li></ul>  </div>
+
+</section> <!-- /.block -->
+</div>
+ <!-- /.region -->
+    <div class="region region-header-search clearfix">
+  <div class="region region-header-search clearfix">
+  <section id="block-menu-menu-topmenu" class="block block-menu" >
+    <div class="desktop_only">
+                        
+        <div class="content">
+            <ul class="menu"><li class="first last leaf menu-1271  menu-newsletter"><a href="/bricks/pl/newsletter">Newsletter</a></li>
+</ul>        </div>
+    </div>
+</section> <!-- /.block -->
+<section id="block-vds-vds-subsite-extra-links" class="block block-vds">
+
+      
+  <div class="content">
+    <div class="item-list"><ul><li class="professionals top-menu-item first"><a href="/professionals/pl">Pliki do pobrania</a></li>
+<li class="showroom top-menu-item"><a href="/group/pl/zaklady">Salony</a></li>
+<li class="contact top-menu-item last"><a href="/group/pl/contact">Kontakt</a></li>
+</ul></div>  </div>
+
+</section> <!-- /.block -->
+<section id="block-vds-vds-domains-dropdown" class="block block-vds">
+
+      
+  <div class="content">
+    
+<div class="top-menu-item">
+  <a class="vds-domains-dropdown-toggle l-domain-dropdown__toggle" href="#">
+  <span class="tablet_only">pl</span>
+  <span class="desktop_only">Wybierz swój kraj</span>
+</a></div>
+
+<div class="l-domain-dropdown js-domain-dropdown">
+  <span class="top_bar mobile_only"></span>
+
+  <div class="l-domain-dropdown__list js-domain-dropdown-list" style="display:none;">
+    <div class="l-domain-dropdown__container">
+      <ul>
+        
+                            <li>
+            <a href="http://www.vandersandengroup.by/bricks/ru/kirpich-kirpichnaya-plitka/carbon">
+            Belarus            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.be/bricks/de/verblender-riemchen/carbon">
+            Belgien            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.be/bricks/fr/brique-de-parement-plaquette/carbon">
+            Belgique            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.be/bricks/nl-be/gevelsteen-steenstrip/carbon">
+            België            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Bosnia and Herzegovina            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Bulgaria            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Croatia            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Cyprus            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.cz/bricks/en/brick-brickslip/carbon">
+            Czech Republic            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.dk/bricks/en/brick-brickslip/carbon">
+            Denmark            </a>
+          </li>
+                            </ul><ul>          <li>
+            <a href="http://www.vandersandengroup.de/bricks/de/verblender-riemchen/carbon">
+            Deutschland            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Estonia            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Finland            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.fr/bricks/fr/brique-de-parement-plaquette/carbon">
+            France            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.ru/bricks/ru/kirpich-kirpichnaya-plitka/carbon">
+            Georgia            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Greece            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Hungary            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Iran            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.ie/bricks/en/brick-brickslip/carbon">
+            Ireland            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Italy            </a>
+          </li>
+                            </ul><ul>          <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Kosovo            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Latvia            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Lebanon            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.lt/bricks/en/brick-brickslip/carbon">
+            Lithuania            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.fr/bricks/fr/brique-de-parement-plaquette/carbon">
+            Luxembourg            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.de/bricks/de/verblender-riemchen/carbon">
+            Luxemburg            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.fr/bricks/fr/brique-de-parement-plaquette/carbon">
+            Maroc            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Montenegro            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.nl/bricks/nl-nl/gevelsteen-steenstrip/carbon">
+            Nederland            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Norway            </a>
+          </li>
+                            </ul><ul>          <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Other countries            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.pl/bricks/pl/cegla-plytki/carbon">
+            Polska            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Portugal            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.ro/bricks/en/brick-brickslip/carbon">
+            Romania            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.ru/bricks/ru/kirpich-kirpichnaya-plitka/carbon">
+            Rossija            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.ch/bricks/de/verblender-riemchen/carbon">
+            Schweiz            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Serbia            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Slovakia            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Slovenia            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+            Spain            </a>
+          </li>
+                            </ul><ul>          <li>
+            <a href="http://www.vandersandengroup.ch/bricks/fr/brique-de-parement-plaquette/carbon">
+            Suisse            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.se/bricks/en/brick-brickslip/carbon">
+            Sweden            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.com.tr/bricks/tr/tugla-kilicina-kaplama-tuglalari/carbon">
+            Türkiye            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.ru/bricks/ru/kirpich-kirpichnaya-plitka/carbon">
+            Ukrayina            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.co.uk/bricks/en-gb/carbon">
+            United Kingdom - Vandersanden UK            </a>
+          </li>
+                                      <li>
+            <a href="http://www.vandersandengroup.de/bricks/de/verblender-riemchen/carbon">
+            Österreich            </a>
+          </li>
+                        </ul>
+      <a class="vds-domains-dropdown-toggle tablet_desktop_only" href="#">&nbsp;</a>
+    </div>
+  </div>
+  <a class="vds-domains-dropdown-toggle mobile_only" href="#">&nbsp;</a>
+  <div class="clearfix"></div>
+</div>
+
+<div class="l-domain-mobile-dropdown js-domain-dropdown js-domain-dropdown-list">
+  <span class="top_bar mobile_only"></span>
+
+  <div class="l-domain-dropdown__list js-domain-dropdown-list" style="display:none;">
+    <div class="l-domain-dropdown__container">
+      <div>
+        <ul>
+          
+                                  <li>
+              <a href="http://www.vandersandengroup.by/bricks/ru/kirpich-kirpichnaya-plitka/carbon">
+              Belarus              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.be/bricks/de/verblender-riemchen/carbon">
+              Belgien              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.be/bricks/fr/brique-de-parement-plaquette/carbon">
+              Belgique              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.be/bricks/nl-be/gevelsteen-steenstrip/carbon">
+              België              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Bosnia and Herzegovina              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Bulgaria              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Croatia              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Cyprus              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.cz/bricks/en/brick-brickslip/carbon">
+              Czech Republic              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.dk/bricks/en/brick-brickslip/carbon">
+              Denmark              </a>
+            </li>
+                                  </ul><ul>            <li>
+              <a href="http://www.vandersandengroup.de/bricks/de/verblender-riemchen/carbon">
+              Deutschland              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Estonia              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Finland              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.fr/bricks/fr/brique-de-parement-plaquette/carbon">
+              France              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.ru/bricks/ru/kirpich-kirpichnaya-plitka/carbon">
+              Georgia              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Greece              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Hungary              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Iran              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.ie/bricks/en/brick-brickslip/carbon">
+              Ireland              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Italy              </a>
+            </li>
+                                  </ul><ul>            <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Kosovo              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Latvia              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Lebanon              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.lt/bricks/en/brick-brickslip/carbon">
+              Lithuania              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.fr/bricks/fr/brique-de-parement-plaquette/carbon">
+              Luxembourg              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.de/bricks/de/verblender-riemchen/carbon">
+              Luxemburg              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.fr/bricks/fr/brique-de-parement-plaquette/carbon">
+              Maroc              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Montenegro              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.nl/bricks/nl-nl/gevelsteen-steenstrip/carbon">
+              Nederland              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Norway              </a>
+            </li>
+                                  </ul><ul>            <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Other countries              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.pl/bricks/pl/cegla-plytki/carbon">
+              Polska              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Portugal              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.ro/bricks/en/brick-brickslip/carbon">
+              Romania              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.ru/bricks/ru/kirpich-kirpichnaya-plitka/carbon">
+              Rossija              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.ch/bricks/de/verblender-riemchen/carbon">
+              Schweiz              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Serbia              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Slovakia              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Slovenia              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com/bricks/en/brick-brickslip/carbon">
+              Spain              </a>
+            </li>
+                                  </ul><ul>            <li>
+              <a href="http://www.vandersandengroup.ch/bricks/fr/brique-de-parement-plaquette/carbon">
+              Suisse              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.se/bricks/en/brick-brickslip/carbon">
+              Sweden              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.com.tr/bricks/tr/tugla-kilicina-kaplama-tuglalari/carbon">
+              Türkiye              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.ru/bricks/ru/kirpich-kirpichnaya-plitka/carbon">
+              Ukrayina              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.co.uk/bricks/en-gb/carbon">
+              United Kingdom - Vandersanden UK              </a>
+            </li>
+                                              <li>
+              <a href="http://www.vandersandengroup.de/bricks/de/verblender-riemchen/carbon">
+              Österreich              </a>
+            </li>
+                              </ul>
+      </div>
+      <a class="vds-domains-dropdown-toggle tablet_desktop_only" href="#">&nbsp;</a>
+    </div>
+  </div>
+  <a class="vds-domains-dropdown-toggle mobile_only" href="#">&nbsp;</a>
+  <div class="clearfix"></div>
+</div>
+  </div>
+
+</section> <!-- /.block -->
+<section id="block-search-form" class="block block-search">
+
+      
+  <div class="content">
+    <form action="/bricks/pl/cegla-plytki/carbon" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+  <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Szukaj </label>
+ <input title="Wprowadź słowa, które mają zostać wyszukane." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Szukaj" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-ysshr08SC0alwPVXCYrwCa2flN4jZ4vJK3x6ibmGQS4" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+
+</section> <!-- /.block -->
+</div>
+ <!-- /.region -->
+</div>
+ <!-- /.region -->
+
+          <nav id="navigation" role="navigation" class="clearfix">
+              </nav> <!-- /#navigation -->
+    
+    <a class="mobile_togglemenu navigation" href="javascript:void(0)">
+      <span></span>
+      <span></span>
+      <span></span>
+    </a>
+
+    <a class="mobile_togglemenu language" href="javascript:void(0)">
+      pl    </a>
+  </div>
+</header> <!-- /#header -->
+  
+  <section id="main" role="main" class="clearfix" class="subsite-bricks">
+    <div id="main-inner" class="inner">
+
+      <section id="content" role="region" class="clearfix">
+        <div id="content-inner">
+
+          
+          
+          <div class="content-system">
+
+            
+            
+            <a id="main-content"></a>
+         </div>
+
+          <div class="region region-content clearfix">
+  <section id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+    <article id="node-6361" class="node node-brick node-full clearfix" about="/bricks/pl/cegla-plytki/carbon" typeof="sioc:Item foaf:Document">
+  <div class="content">
+        <div class="field-name-brick-vds-gallery">
+      <div class="brick-vds-gallery carousel-wrapper">
+        <div class="gallery">
+          <div class="detail-wrapper">
+                          <div class="picture carousel-item">
+              <a rel="brick-vds-gallery" class="picture-link" href="https://www.vandersandengroup.pl/sites/default/files/vds-paneel-zv-076_lr_0.jpg">
+              <span class="picture-content"><img class="imagefield-colorbox" typeof="foaf:Image" src="https://www.vandersandengroup.pl/sites/default/files/styles/brick_gallery_2014/public/vds-paneel-zv-076_lr_0.jpg?itok=Hl787sIv" width="740" height="440" alt="" /></span>
+              </a>
+                              <div class="picture-infos">
+                <div class="picture-title">Ciemna cegła i płytka - Carbon </div>
+                <div class="picture-description"><div class="copy"></div></div>
+                </div>
+                <div class="mobile_arrow"></div>
+                            </div>
+                          <div class="picture carousel-item">
+              <a rel="brick-vds-gallery" class="picture-link" href="https://www.vandersandengroup.pl/sites/default/files/images_brick/076_carbon_4.jpg">
+              <span class="picture-content"><img class="imagefield-colorbox" typeof="foaf:Image" src="https://www.vandersandengroup.pl/sites/default/files/styles/brick_gallery_2014/public/images_brick/076_carbon_4.jpg?itok=fxBDR79Q" width="740" height="440" alt="" /></span>
+              </a>
+                              <div class="picture-infos">
+                <div class="picture-title">Ciemna cegła i płytka - Carbon </div>
+                <div class="picture-description"><div class="copy"></div></div>
+                </div>
+                <div class="mobile_arrow"></div>
+                            </div>
+                          <div class="picture carousel-item">
+              <a rel="brick-vds-gallery" class="picture-link" href="https://www.vandersandengroup.pl/sites/default/files/images_brick/076_carbon_12.jpg">
+              <span class="picture-content"><img class="imagefield-colorbox" typeof="foaf:Image" src="https://www.vandersandengroup.pl/sites/default/files/styles/brick_gallery_2014/public/images_brick/076_carbon_12.jpg?itok=43Rw1bP6" width="740" height="440" alt="" /></span>
+              </a>
+                              <div class="picture-infos">
+                <div class="picture-title">Ciemna cegła i płytka - Carbon </div>
+                <div class="picture-description"><div class="copy"></div></div>
+                </div>
+                <div class="mobile_arrow"></div>
+                            </div>
+                       </div>
+        </div>
+                  <div class="navigation">
+            <a class="brick-vds-gallery-btn-prev" href="javascript:scrollCarousel(-1)">
+              <span class="sr-only">Poprzedni</span>
+            </a>
+            <a class="brick-vds-gallery-btn-next" href="javascript:scrollCarousel(1)">
+              <span class="sr-only">Dalej</span>
+            </a>
+          </div>
+              </div>
+    </div>
+    
+    <div class="info_wrapper">
+
+            <div class="field-name-brick-vds-detailed-info">
+        <h2 class="vds-brick-detail-title">
+          76. Carbon        </h2>
+
+        <div class="vds-brick-detail-block vds-brick-detail-description">
+                    <p>Cegły i płytki ręcznie formowane w odcieniu niebieskofioletowym z brązową poświatą i antracytowymi cieniami.<br />
+Rzeczywisty kolor cegieł i płytek może r&oacute;żnić się od tych prezentowanych na zdjęciach. R&oacute;żnice takie mogą występować r&oacute;wnież między partiami tego samego koloru.<br />
+<sup>(*) Kolor niestandardowy, dostępny tylko na zam&oacute;wienie</sup></p>
+                  </div>
+
+                  <div class="vds-brick-detail-block">
+            <span class="vds-brick-detail-subtitle">Kolory: </span>
+            <a href="/bricks/pl/kolory?color=purpurowy">Purpurowy</a>          </div>
+        
+                  <div class="vds-brick-detail-block vds-brick-detail-formats">
+            <span class="vds-brick-detail-subtitle">
+              <a href="/bricks/pl/produkty/cegly-recznie-formowane" target="_blank">Kolor dostępny w formatach</a>              : </span>
+            <div class="item-list"><ul><li class="first last">WF</li>
+</ul></div>          </div>
+        
+                  <div class="vds-brick-detail-block vds-brick-detail-series">
+            <span class="vds-brick-detail-subtitle">Style series: </span>
+            <div class="item-list"><ul><li class="first last">Hand-moulded</li>
+</ul></div>          </div>
+        
+        
+        
+      </div>
+      
+            <div class="field-name-brick-vds-share-links">
+        <div>
+          <span class="label">Share:</span>
+          <ul class="social-links">
+                          <li class="link twitter">
+                <a title="Podziel się na Twitter" href="http://www.twitter.com/intent/tweet?via=vandersanden&url=https://www.vandersandengroup.pl/bricks/pl/cegla-plytki/carbon&text=Carbon+-+Vandersanden+Bricks&language=pl" target="_blank">
+                </a>
+              </li>
+                          <li class="link facebook">
+                <a title="Podziel się na Facebook" href="http://www.facebook.com/sharer.php?t=Carbon+-+Vandersanden+Bricks&u=https://www.vandersandengroup.pl/bricks/pl/cegla-plytki/carbon" target="_blank">
+                </a>
+              </li>
+                          <li class="link pinterest">
+                <a title="Podziel się na Pinterest" href="http://www.pinterest.com/pin/find/?url=https://www.vandersandengroup.pl/bricks/pl/cegla-plytki/carbon" target="_blank">
+                </a>
+              </li>
+                      </ul>
+        </div>
+      </div>
+      
+    </div>
+
+        <div class="field-name-brick-vds-documentation">
+      <div class="grid">
+        <div class="grid__item lap--one-half desk--one-half">
+          <div class="box box-request-doc">
+
+            <div class="grid">
+              <div class="icn-wrapper grid__item one-third">
+                <i class="icn-information-circle"></i>
+              </div>
+              <div class="box-body grid__item two-thirds">
+                <div class="lists-links">
+                  <a href="/bricks/pl/materialy-informacyjne">Dodatkowe materiały informacyjne</a>                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+                <div class="grid__item lap--one-half desk--one-half">
+          <div class="box box-download-doc">
+                          <h2 class="box-title">Pliki do pobrania</h2>
+              <div id="download-links" class="lists-links"><div class="item-list"><ul><li class="first"><a href="https://www.vandersandengroup.pl/sites/default/files/3d_mappings/vds76.zip">3D-mapping<span class="dl-filesize"> (zip 2.07 MB)</span></a></li>
+<li><a href="https://www.vandersandengroup.pl/bricks/pl" class="dop-collapser-node-view">Pobierz DOP</a></li>
+<li class="last"><a href="https://www.vandersandengroup.pl/bricks/pl/download/6361/bricks/pdf">Specyfikacja techniczna</a></li>
+</ul></div></div>
+                            <div id="dop-form-loader" style="display: none;">
+                <div id="dop-form-decorator"  style="display: none;">
+                  <div class="dop-close-icon"></div>
+                    <form action="/bricks/pl/cegla-plytki/carbon" method="post" id="wm-dop-form" accept-charset="UTF-8"><div><input type="hidden" name="article_code" value="76" />
+<input type="hidden" name="current_language" value="pl" />
+<div class="form-item form-type-select form-item-color">
+  <select id="edit-color" name="color" class="form-select"><option value="0"  >---Format---</option></select>
+</div>
+<div class="form-item form-type-select form-item-oid">
+  <select id="edit-oid" name="oid" class="form-select"><option value="0"  >---Numer partii---</option></select>
+</div>
+<div class="form-item form-type-select form-item-lang">
+  <select id="edit-lang" name="lang" class="form-select"><option value="0"  >---Język---</option></select>
+</div>
+<div class="captcha"><input type="hidden" name="captcha_sid" value="9506240" />
+<input type="hidden" name="captcha_token" value="377b307b46c1b71af297e2669d98479f" />
+<input type="hidden" name="captcha_response" value="Google no captcha" />
+<div class="g-recaptcha" data-sitekey="6LeqCw8UAAAAAD9lGZpoK3llOIkPLc0LSBBRioie" data-theme="light" data-type="image"></div></div><input type="submit" id="edit-submit--3" name="op" value="Pobierz" class="form-submit" /><input type="hidden" name="form_build_id" value="form-bkB3wdi-UaPfUsVA8OMFBmE5PdF_eMbF5xeLSmiVZaU" />
+<input type="hidden" name="form_id" value="wm_dop_form" />
+<div class="homepage-textfield"><div class="form-item form-type-textfield form-item-homepage">
+  <label for="edit-homepage">Leave this field blank </label>
+ <input autocomplete="off" type="text" id="edit-homepage" name="homepage" value="" size="20" maxlength="128" class="form-text" />
+</div>
+</div></div></form>                </div>
+              </div>
+                                    </div>
+        </div>
+      </div>
+    </div>
+    
+            <div class="field-name-brick-vds-joints">
+    <div class="section clearfix">
+      <div class="section-header">
+        <h2 class="box-title">
+          Efekt fugi        </h2>
+      </div>
+      <div class="section-body">
+        <div class="grid">
+          <ul class="list-items">
+            <li class="item joint-example grid__item lap--one-half desk--one-third"><div class="thumbnail--bordered"><a rel="brick-vds-joints" class="picture-joint" href="https://www.vandersandengroup.pl/sites/default/files/images_brick_joint/vds_076_1024_5.jpg"><img class="imagefield-colorbox" typeof="foaf:Image" src="https://www.vandersandengroup.pl/sites/default/files/styles/brick_thumbnail_2014/public/images_brick_joint/vds_076_1024_5.jpg?itok=aXnRL1q_" width="544" height="405" alt="" title="Biała fuga" /></div><div class="item-description">Biała fuga</div></li><li class="item joint-example grid__item lap--one-half desk--one-third"><div class="thumbnail--bordered"><a rel="brick-vds-joints" class="picture-joint" href="https://www.vandersandengroup.pl/sites/default/files/images_brick_joint/vds_076_2_1024_5.jpg"><img class="imagefield-colorbox" typeof="foaf:Image" src="https://www.vandersandengroup.pl/sites/default/files/styles/brick_thumbnail_2014/public/images_brick_joint/vds_076_2_1024_5.jpg?itok=AR11lIZk" width="544" height="405" alt="" title="Fuga w kolorze cegły" /></div><div class="item-description">Fuga w kolorze cegły</div></li><li class="item joint-example grid__item lap--one-half desk--one-third"><div class="thumbnail--bordered"><a rel="brick-vds-joints" class="picture-joint" href="https://www.vandersandengroup.pl/sites/default/files/images_brick_joint/vds_076_3_1024_5.jpg"><img class="imagefield-colorbox" typeof="foaf:Image" src="https://www.vandersandengroup.pl/sites/default/files/styles/brick_thumbnail_2014/public/images_brick_joint/vds_076_3_1024_5.jpg?itok=U3Yp2FbH" width="544" height="405" alt="" title="Szara fuga" /></div><div class="item-description">Szara fuga</div></li><li class="divider"></li><li class="item joint-example grid__item lap--one-half desk--one-third"><div class="thumbnail--bordered"><a rel="brick-vds-joints" class="picture-joint" href="https://www.vandersandengroup.pl/sites/default/files/images_brick_joint/vds_076_4_1024_5.jpg"><img class="imagefield-colorbox" typeof="foaf:Image" src="https://www.vandersandengroup.pl/sites/default/files/styles/brick_thumbnail_2014/public/images_brick_joint/vds_076_4_1024_5.jpg?itok=jTfiZ-jE" width="544" height="405" alt="" title="Ciemnoszara fuga" /></div><div class="item-description">Ciemnoszara fuga</div></li><li class="item joint-example grid__item lap--one-half desk--one-third"><div class="thumbnail--bordered"><a rel="brick-vds-joints" class="picture-joint" href="https://www.vandersandengroup.pl/sites/default/files/images_brick_joint/vds_076_zero_1024_5.jpg"><img class="imagefield-colorbox" typeof="foaf:Image" src="https://www.vandersandengroup.pl/sites/default/files/styles/brick_thumbnail_2014/public/images_brick_joint/vds_076_zero_1024_5.jpg?itok=U0jUDJUn" width="544" height="405" alt="" title="Bez fugi" /></div><div class="item-description">Bez fugi</div></li>          </ul>
+        </div>
+      </div>
+    </div>
+    </div>
+        
+            <div class="field-name-brick-vds-related-bricks">
+      <div class="section">
+        <div class="section-header">
+          <div class="link-additional-info"><a href="/bricks/pl/colors">Zobacz wszystkie kolory</a></div>
+          <h2 class="box-title">Inni oglądali również te cegły:</h2>
+        </div>
+        <div class="section-body">
+          <div class="grid">
+            <ul class="list-items">
+              <li class="item joint-example grid__item lap--one-half desk--one-third"><div class="thumbnail--bordered"><a href="/bricks/pl/cegla-plytki/parma"><img typeof="foaf:Image" src="https://www.vandersandengroup.pl/sites/default/files/styles/brick_thumbnail_2014/public/vds-paneel-zv-033_lr_0.jpg?itok=ZgAfP0gO" width="544" height="405" alt="" /></a></div><div class="item-description">Parma</div></li><li class="item joint-example grid__item lap--one-half desk--one-third"><div class="thumbnail--bordered"><a href="/bricks/pl/cegla-plytki/medoc-ws"><img typeof="foaf:Image" src="https://www.vandersandengroup.pl/sites/default/files/styles/brick_thumbnail_2014/public/vds-paneel-zv-535w_lr_0.jpg?itok=B4G1wAXI" width="544" height="405" alt="" /></a></div><div class="item-description">Medoc WS</div></li><li class="item joint-example grid__item lap--one-half desk--one-third"><div class="thumbnail--bordered"><a href="/bricks/pl/cegla-plytki/salvia-gesinteld"><img typeof="foaf:Image" src="https://www.vandersandengroup.pl/sites/default/files/styles/brick_thumbnail_2014/public/vds-paneel-zv-047_lr_0.jpg?itok=zaKRMIa4" width="544" height="405" alt="" /></a></div><div class="item-description">Salvia Gesinteld</div></li><li class="divider"></li>            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+        
+    
+  </div>
+</article>
+
+  </div>
+
+</section> <!-- /.block -->
+</div>
+ <!-- /.region -->
+
+          
+        </div>
+      </section> <!-- /#content -->
+
+      
+      
+    </div>
+  </section> <!-- /#main -->
+
+    <footer class="l-footer" role="contentinfo">
+  <div class="l-footer__inner">
+
+    <div class="container">
+      <div class="row l-footer__inner-top">
+        <div class="col-md-4">
+          <div class="region region-footer-left clearfix">
+  <section id="block-block-27" class="block block-block">
+
+        <h2  class="title">Vandersanden</h2>
+    
+  <div class="content">
+    <div>
+<div> </div>
+<p>&gt; <a href="/group/pl/slowo-o-vandersanden-group">Slowo o Vandersanden</a><br />
+&gt; <a href="/bricks/pl/dystrybutorzy/polska">Dystrybutorzy</a><br />
+&gt; <a href="/group/pl/misja">Misja</a><br />
+&gt; <a href="/group/pl/eco">Ekologia</a></p>
+<div>
+<div> </div>
+<div><em>Signa®, E-Brick®, E-Board®, Zero® and Esoleren™ are registered trademarks of Vandersanden. Use of these trademarks is prohibited unless strictly authorized.</em></div>
+</div>
+</div>
+  </div>
+
+</section> <!-- /.block -->
+</div>
+ <!-- /.region -->
+        </div>
+
+        <div class="col-md-4">
+          <div class="region region-footer-center clearfix">
+  <section id="block-block-29" class="block block-block">
+
+        <h2  class="title">Praktyczne</h2>
+    
+  <div class="content">
+    <div> </div>
+<div>&gt; <a href="https://www.shared.vandersanden.com/policies/Cookie_Policy_PL.pdf" target="_blank">Oświadczenie w sprawie ciasteczek</a>​​​<br />
+&gt; <a href="https://www.shared.vandersanden.com/policies/Privacy_Policy_PL.pdf" target="_blank">Polityka prywatności</a>​​​<br />
+&gt; <a href="/group/pl/disclaimer" target="_blank">Disclaimer</a>​​​</div>
+<div>&gt; <a href="http://www.vandersandengroup.com/bricks/en/general-terms-and-conditions-sale-0" target="_blank">Conditions of sale</a></div>
+  </div>
+
+</section> <!-- /.block -->
+</div>
+ <!-- /.region -->
+        </div>
+
+        <div class="col-md-4">
+          <div class="region region-footer-right clearfix">
+  <section id="block-block-28" class="block block-block">
+
+        <h2  class="title">Kontakt</h2>
+    
+  <div class="content">
+    <div>Vandersanden<br />
+Riemsterweg 300<br />
+BE-3740 Bilzen (Spouwen), Belgia<br />
+kontakt w Polsce: <a href="mailto:marketing@vandersanden.com.pl">marketing@vandersanden.com.pl</a></div>
+  </div>
+
+</section> <!-- /.block -->
+<section id="block-vds-vds-footer-social-links" class="block block-vds">
+
+      
+  <div class="content">
+    </br>
+<ul id="vds-social-links-footer">
+        <li class="facebookfooter">
+          <a title="Facebook" href="http://www.facebook.com/pages/Vandersanden-Polska/303435386374987"
+             target="_blank">
+              <span>Facebook</span>
+          </a>
+      </li>
+        <li class="twitterfooter">
+          <a title="Twitter" href="http://www.twitter.com/#!/vandersanden"
+             target="_blank">
+              <span>Twitter</span>
+          </a>
+      </li>
+        <li class="youtubefooter">
+          <a title="YouTube" href="http://www.youtube.com/VandersandenGroup"
+             target="_blank">
+              <span>YouTube</span>
+          </a>
+      </li>
+        <li class="linkedinfooter">
+          <a title="LinkedIn" href="https://www.linkedin.com/company/453236/"
+             target="_blank">
+              <span>LinkedIn</span>
+          </a>
+      </li>
+        <li class="instagramfooter">
+          <a title="Instagram" href="https://www.instagram.com/vandersanden_/"
+             target="_blank">
+              <span>Instagram</span>
+          </a>
+      </li>
+  </ul>
+
+  </div>
+
+</section> <!-- /.block -->
+</div>
+ <!-- /.region -->
+          &copy; Vandersanden 2021 All rights reserved
+        </div>
+      </div>
+    </div>
+
+          <div class="container">
+              </div>
+      </div>
+</footer>
+
+  <footer id="closure" role="contentinfo" class="clearfix">
+    <div id="closure-inner" class="inner">
+          </div>
+  </footer> <!-- /#footer -->
+
+</div> <!-- /#wrapper -->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var eu_cookie_compliance_cookie_name = "";
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.vandersandengroup.pl/sites/all/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.js?qbm3bw"></script>
+
+  </body>
+
+</html>
