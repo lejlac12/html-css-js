@@ -1,0 +1,60 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+.wall {
+	width: 100vw;
+	height: 100vh;
+	
+	background: url('tr.png') center bottom repeat-x,
+				url('ciglaa.jpg') center bottom repeat;
+				
+	background-size: auto 800px,
+					 400px auto;
+	text-align: center;
+
+	box-shadow: 0px 0px  25px 0px #000 inset;
+}
+.wall img {
+	width: 300px;
+	height: auto;
+	margin: 50px 50px;
+	border: 10px solid white;
+	outline: 5px solid black;
+	
+}
+
+.shadow-1 {box-shadow: -10px 0px 10px 10px black;}
+.shadow-c {box-shadow:  0px 0px 10px 10px black;}
+.shadow-r {box-shadow:  10px 0px 10px 10px black;}
+
+.natpis {
+	
+	display: inline-block;
+	margin: 100px 0px 0px 0px;
+	font-size: 75px;
+	font-weight: bold;
+	font-family: Consolas;
+	color: #F3F3FF;
+	
+	text-shadow: 1px  1px 5px #99D,
+				 1px -1px 5px #99D,
+				-1px -1px 5px #99D,
+				-1px -1px 5px #99D,
+				 0px  -10px 5px #000;
+				 
+	transition: text-shadow 750ms;
+	
+}
+
+.natpis:hover {
+	transition: text-shadow 1500ms;
+	
+	text-shadow: 1px  1px 5px #99D,
+				 1px -1px 5px #99D,
+				-1px -1px 5px #99D,
+				-1px -1px 5px #99D,
+				 0px  10px 5px #000;
+}
