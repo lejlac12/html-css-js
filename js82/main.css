@@ -1,0 +1,39 @@
+* {
+	padding: 0px;
+	margin: opx;
+}
+
+:root {
+	--boja-pozadine: #fdfdfd;
+	--boja-naslova: #DD0101;
+	--boja-teksta: #444444;
+	--velicina-teksta: 18px;
+	--prored: 4px;
+}
+
+body {
+	font-size: var(--velicina-teksta);
+	color: var(--boja-teksta);
+	background-color: var(--boja-pozadine);
+}
+
+ul {
+	margin-left: 25px;
+}
+
+p {
+	margin: calc(var(--prored) * 2) 0px;
+}
+
+img {
+	margin: var(--prored);
+	border: calc(var(--prored) * 0.5) solid var(--boja-naslova);
+}
+
+h1 {
+	margin-bottom: calc(var(--prored) * 3);
+	font-size: calc(var(--velicina-teksta) * 1.75);
+	color: var(--boja-naslova);
+	padding-bottom: var(--prored);
+	border-bottom: calc(var(--prored) * 0.5) solid var(--boja-teksta);
+}

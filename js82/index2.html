@@ -1,0 +1,70 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Stranica</title>
+		<meta charset="utf-8">
+		<style>
+			/* Treba da bude druga datoteka! */
+			
+			.skala {
+				--boja: 0;
+				--ugao: -90deg;
+				
+				width: 400px;
+				height: 200px;
+				border: 10px solid rgb(var(--boja), calc(255 - var(--boja)), 0 );
+				position: relative;
+				transition: 750ms;
+				margin-bottom: 10px;
+			}
+			
+			.igla {
+				position: absolute;
+				width: 20px;
+				height: 150px;
+				left: 190px;
+				bottom: 10px;
+				transform-origin: 5px 150px;
+				transition: 1s;
+				
+				transform: rotate(var(--ugao));
+				background-color: rgb(var(--boja), calc(255 - var(--boja)), 0 );
+			}
+			
+			
+		</style>
+	</head>
+	<body>
+		<div class="skala" id="skala-1">
+			<div class="igla"></div>
+		</div>
+		
+		<div class="skala" id="skala-2">
+			<div class="igla"></div>
+		</div>
+		
+		<script>
+			function setSkala(idSkale, vrijednost) {
+					var mjerenje = (vrijednost * 100).toFixed(0);
+					var boja = 255 - (vrijednost * 255).toFixed(0);
+					
+					var ugao = mjerenje * 180 / 100 - 90;
+					ugao = ugao.toFixed(0); 
+					
+					var skala = document.getElementById(idSkale)
+					skala.style.setProperty('--ugao', ugao + 'deg');
+					skala.style.setProperty('--boja', boja);
+					
+					}
+					
+					function novoMjerenje() {
+						setSkala('skala-1', Math.random());
+						setSkala('skala-2', Math.random());
+					}
+			
+			setInterval(novoMjerenje, 1000);
+		</script>
+		
+	
+	</body>
+</html>
