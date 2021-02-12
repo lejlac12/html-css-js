@@ -1,0 +1,3 @@
+div.container > div[title] > span:nth-child(odd):not(:empty)[data-priority*="a"] {
+	color: pink;
+}
