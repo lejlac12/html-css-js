@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Slike</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="main.css">
+	</head>
+	<body>
+		<img src="sala.jpg" alt="Sala" usemap="#mapa-sale" id="slika-sale">
+		
+		<div id="message-box"></div>
+		<div id="message-box-2"></div>
+		
+		<map name="mapa-sale">
+			
+			<area shape="rect" data-coords="185, 220, 1095, 980" onmouseover="tell('Naziv');"
+				onclick="reserve('Ovo gledate!');">
+			
+			<area shape="circle"
+				data-coords="100, 227, 54" onmouseover="tell('Lijevo');"
+				onclick="reserve('Ovo drugo sto gledate!');">
+			
+			<area shape="circle" data-coords="20, 117, 54" onmouseover="tell('Desno');"
+				onclick="reserve('Ovo je posljednje!');">
+			
+			
+		</map>
+		
+		<script> 
+			function tell(message) {
+				document.getElementById('message-box').innerText = message;
+		}
+		
+			function reserve(what) {
+			document.getElementById('message-box-2').innerText = what;
+		}
+		
+		function setRealCoords(area, img) {
+			var originalWidth = img.naturalWidth 
+			var visibleWidth = img.width;
+			
+			var factor = visibleWidth / originalWidth;
+			
+			var strDataCoords = area.dataset.coords;
+			
+			var dataCoordsAsStrings = strDataCoords.split(',');
+			
+			var visibleCoords = [];
+			
+			for (var dataCoord of dataCoordsAsStrings) {
+				visibleCoords.push( (Number(dataCoord.trim()) * factor ).toFixed(0) );
+			}	
+				var newCoords = visibleCoords.join(', ');
+				
+				area.setAttribute('coords', newCoords);
+			
+		}
+		
+		function resetAllCoords() {
+			var areas = document.querySelectorAll('area');
+			
+			var img = document.getElementById('slika-sale');
+			
+			for (var area of areas) {
+				setRealCoords(area, img);
+			}
+			
+		}
+		
+		window.addEventListener('load', resetAllCoords);
+		window.addEventListener('resize', resetAllCoords);
+		</script>
+	</body>
+	
+</html>
