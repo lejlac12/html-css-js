@@ -1,0 +1,87 @@
+* {
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+}
+
+.proizvodi {
+	display: flex;
+	flex-wrap: wrap;
+	
+}
+
+.proizvod {
+	width: 240px;
+	padding: 15px;
+	position: relative;
+}
+
+.proizvod > img {
+	display: block;
+	width: 100%;
+}
+
+.proizvod > a {
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	color: #8FBC8F;
+	font-size: 20px;
+	padding: 10px 0px;
+}
+
+.proizvod > .e-price {
+	display: flex;
+}
+
+.proizvod > .e-price > .energy,
+.proizvod > .e-price > .price {
+	flex-basis: 0;
+	flex-grow: 1;
+	font-size: 18px;
+	padding: 10px 0px;
+}
+
+.proizvod > .e-price > .energy {
+	text-align: center;
+}
+
+.proizvod > .e-price > .price {
+	text-align: right;
+}
+
+.proizvod > button {
+	border: none;
+	display: block;
+	width: 100%;
+	background: #7FFFD4;
+	color: #2F4F4F;
+	font-size: 24px;
+	border-radius: 50px 20px;
+	padding: 10px 0px;
+	border: 1px solid pink;
+	border-style: none;
+	border: 0px;
+	
+
+}
+
+.proizvod > .novo {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	padding: 10px 0px;
+	text-align: center;
+	font-size: 16px;
+	line-height: 16px;
+	border: 0.5px solid #2F4F4F;
+	border-radius: 15px 5px;
+	background-color: #7FFFD4;
+	top: -5px;
+	right: -5px;
+	
+}
+
+.proizvod > button:focus {
+	 outline: 0px;
+}
