@@ -7,16 +7,16 @@
 	</head>
 	<body>
 		<label for="input_forename"><u>F</u>orename:</label><br>
-		<input type="text" id="input_forename" tabindex="1" accesskey="f" aria-labeledby="label_for_forename">
+		<input type="text" id="input_forename" tabindex="1" accesskey="f">
 		<button type="button" tabindex="4" accesskey="r" onclick="register();">Register</button><br>
 		<small id="label_for_forename">Please enter your first name in this field</small><br>
 		
 		<label for="input_surname"><u>S</u>urname:</label><br>
-		<input type="text" id="input_surname" tabindex="2" accesskey="s" aria-labeledby="label_for_surname"><br>
+		<input type="text" id="input_surname" tabindex="2" accesskey="s"><br>
 		<small id="label_for_surname">Please enter your familly name in this field</small><br>
 		
 		<label for="select-country"><u>C</u>ountry:</label><br>
-		<select id="select_country" tabindex="3" accesskey="c" aria-labeledby="label_for_country">
+		<select id="select_country" tabindex="3" accesskey="c">
 			<option value="1">Bosna i Hercegovina</option>
 			<option value="2">Turska</option>
 			<option value="3">Egipat</option>
@@ -28,7 +28,7 @@
 		
 		<button type="button" tabindex="5" accesskey="e" onclick="resetForm();">R<u>e</u>set Form</button><br>
 		
-		<p id="message" aria-live="polite" aria-atomic="true"></p>
+		<p id="message"></p>
 		
 		<script>
 			function resetForm() {
