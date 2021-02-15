@@ -1,0 +1,51 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+body {
+	padding: 10px;
+}
+
+.space {
+	display: inline-block;
+	width: 70px;
+	color: #778899;
+}
+
+input[type="text"],
+input[type="tel"] {
+	background-color: #E6E6FA;
+	border: 1px solid #C0C0C0;
+	padding:4px;
+	margin: 4px;
+	border-radius: 5px 5px;
+	color: #C0C0C0;
+}
+
+button {
+	background-color: #D3D3D3;
+	border: 1px solid #C0C0C0;
+	padding: 4px 18px;
+	margin: 4px;
+	border-radius: 5px 5px;
+}
+
+#paragraf {
+	color: #778899;
+	font-size: 18px;
+	padding-top: 5px;
+	
+}
+
+input:focus,
+input:active {
+	outline: none;
+	outline: 0;
+}
+
+button:focus,
+button:active {
+	outline: none;
+	outline: 0;
+}
