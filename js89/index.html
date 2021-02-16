@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Skladištenje podataka</title>
+		<link rel="stylesheet" href="main.css">
+	</head>
+	<body>
+		<h1>Neki naslov stranice</h1>
+		<p>Paragraf sa vaznim tekstom na stranici</p>
+		
+		<div class="form">
+			Izaberite boju teksta:
+			<input type="color" id="bojaTeksta" 
+			       onchange="promijenjenaBoja();">
+		</div>
+		
+		<div class="pp hidden" id="cuvanjePodataka">
+			Sacuvan neki podatak o vama.<br><br>
+			Da li se slazete sa tim?<br>
+			<button onclick="slazemSe();">
+			Slazem se
+			</button>
+			
+			<button onclick="neSlazemSe();">
+			Ne slazem se
+			</button>
+			
+		</div>
+		
+		<button onclick="resetSvega()">Resetuj sve</button>
+		
+		
+		<script src="main.js"></script>
+		
+	</body>
+</html>
