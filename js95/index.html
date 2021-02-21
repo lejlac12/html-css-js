@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Modali</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="assets/css/modal.css">
+	</head>
+	<body>
+		  <h1>Profile page</h1>
+		  
+		  <div>
+				Your username is <span id="username">lejlatex</span>.
+				<button type="button" onclick="editUsername()">
+					Edit
+				<button>
+		  </div>
+		  
+		  <div>
+		  
+				You are a student: <span id="student-boolean">Yes</span>.
+				<button type="button" onclick="editStudentStatus();">
+					Edit
+				<button>
+	      </div>
+		  
+		   
+		  
+		<script src="assets/js/modal.js"></script>
+		
+		<script>
+			function newUsernameEntered(newUsername) {
+				document.getElementById('username').innerText = newUsername;
+			}
+			
+			function noNewUsernameConfirmed() {
+			}
+			
+			function editUsername() {
+				let currentUsername = document.getElementById('username').innerText;
+			
+				createInputModal(
+								'Enter your new username',
+								 currentUsername,
+								 newUsernameEntered,
+								 noNewUsernameConfirmed 
+					);
+			}
+			
+			function newStudentStatusCallback(status) {
+				if (status == true) {
+					document.getElementById('student-boolean').innerText = 'Yes';
+				} else {
+					document.getElementById('student-boolean').innerText = 'No';
+
+				}
+			}
+			
+			function editStudentStatus() {
+				createYesNoModal(
+					'Are you still a student?',
+					newStudentStatusCallback
+				);
+			}
+		</script>
+	</body>
+</html>

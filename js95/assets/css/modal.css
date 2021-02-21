@@ -1,0 +1,35 @@
+ .page-blur {
+	 position: fixed;
+	 top: 0px;
+	 left: 0px;
+	 right: 0px;
+	 bottom: 0px;
+	 background-color: rgba(255, 255, 255, 0.75);
+	 backdrop-filter: blur(3px);
+ }
+ 
+ .modal-holder {
+	 position: fixed;
+	 top: 0px;
+	 left: 0px;
+	 right: 0px;
+	 bottom: 0px;
+	 display: flex;
+	 align-items: center;
+	 justify-content: center;
+ }
+ 
+ .modal-window {
+	 border: 1px solid #000;
+	 padding: 20px;
+	 background-color: rgba(255, 255, 255, 0.8);
+	 min-width: 50vw;
+ }
+ 
+ .modal-message {
+	 margin-bottom: 20px;
+ }
+ 
+ .modal-row {
+	 padding: 10px 0px;
+ }
