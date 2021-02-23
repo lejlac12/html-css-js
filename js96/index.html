@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Tagovi</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="assets/css/tags.css">
+	</head>
+	<body>
+		<div id="tag-input"></div><br><br>
+
+		<textarea id="izvuceni-tagovi"></textarea><br>
+		<button onclick="uzmiTagove();">Uzmi tagove</button>
+		<button onclick="resetujTagInput();">Resetuj tag input</button>
+		
+		<script src="assets/js/tags.js"></script>
+		<script>
+			window.addEventListener('load', init);
+			
+			function init() {
+				let root = document.getElementById('tag-input');
+				
+				createTagInput(root);
+			}
+			
+			function uzmiTagove() {
+				let root = document.getElementById('tag-input');
+				
+				let tagovi = root.getTags();
+				
+				let polje = document.getElementById('izvuceni-tagovi');
+				polje.innerText = tagovi.join(', ');
+			}
+			
+			function resetujTagInput() {
+				let root = document.getElementById('tag-input');
+				
+				root.clear();
+			}
+		</script>
+	</body>
+</html>
